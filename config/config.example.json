@@ -1,0 +1,8 @@
+{
+  "mongodb_uri": "mongodb://localhost:27017/",
+  "database_name": "nonprofit_jobs",
+  "collection_name": "organizations",
+  "data_file": "data/publicserviceopenings.jsonl",
+  "log_level": "INFO",
+  "log_file": "logs/anajobs.log"
+}
