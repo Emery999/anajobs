@@ -24,7 +24,7 @@ A Python application for managing and processing job site data from non-profit o
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Emery999/anajobs.git
    cd anajobs
    ```
 
@@ -342,6 +342,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### Getting Help
 
-- Check the [Issues](https://github.com/yourusername/anajobs/issues) page
+- Check the [Issues](https://github.com/Emery999/anajobs/issues) page
 - Review the logs in `logs/anajobs.log`
 - Run with debug logging: `ANAJOBS_LOG_LEVEL=DEBUG python -m anajobs.cli test`

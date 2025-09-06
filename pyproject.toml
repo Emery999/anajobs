@@ -43,9 +43,9 @@ dev = [
 anajobs = "anajobs.cli:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/anajobs"
-Repository = "https://github.com/yourusername/anajobs.git"
-Issues = "https://github.com/yourusername/anajobs/issues"
+Homepage = "https://github.com/Emery999/anajobs"
+Repository = "https://github.com/Emery999/anajobs.git"
+Issues = "https://github.com/Emery999/anajobs/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
