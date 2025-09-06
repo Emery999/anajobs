@@ -1,0 +1,22 @@
+{"name": "Idealist", "root": "https://www.idealist.org", "jobs": "https://www.idealist.org/en/jobs", "api": true, "api_type": "public"}
+{"name": "Work for Good", "root": "https://www.workforgood.org", "jobs": "https://www.workforgood.org/jobs", "api": false, "api_type": "none"}
+{"name": "National Council of Nonprofits (Career Board)", "root": "https://www.councilofnonprofits.org", "jobs": "https://careers.councilofnonprofits.org", "api": false, "api_type": "none"}
+{"name": "Chronicle of Philanthropy Jobs", "root": "https://www.philanthropy.com", "jobs": "https://www.philanthropy.com/jobs", "api": false, "api_type": "none"}
+{"name": "Green Jobs Online", "root": "https://www.greenjobsonline.co.uk", "jobs": "https://www.greenjobsonline.co.uk/jobs", "api": false, "api_type": "none"}
+{"name": "SustainableBusiness Jobs", "root": "https://www.sustainablebusiness.com", "jobs": "https://www.sustainablebusiness.com/jobs", "api": false, "api_type": "none"}
+{"name": "EnvironmentalCareer.com", "root": "https://www.environmentalcareer.com", "jobs": "https://www.environmentalcareer.com/jobs", "api": false, "api_type": "none"}
+{"name": "Climatebase", "root": "https://www.climatebase.org", "jobs": "https://www.climatebase.org/jobs", "api": true, "api_type": "unofficial"}
+{"name": "Green Jobs Board", "root": "https://www.greenjobsboard.com", "jobs": "https://www.greenjobsboard.com/jobs", "api": false, "api_type": "none"}
+{"name": "Tech Jobs for Good", "root": "https://www.techjobsforgood.com", "jobs": "https://www.techjobsforgood.com/jobs", "api": true, "api_type": "unofficial"}
+{"name": "Escape the City", "root": "https://www.escapethecity.org", "jobs": "https://www.escapethecity.org/jobs", "api": false, "api_type": "none"}
+{"name": "NextBillion Jobs", "root": "https://nextbillion.net", "jobs": "https://nextbillion.net/jobs", "api": false, "api_type": "none"}
+{"name": "USAJobs", "root": "https://www.usajobs.gov", "jobs": "https://www.usajobs.gov", "api": true, "api_type": "public"}
+{"name": "PublicServiceCareers.org", "root": "https://www.publicservicecareers.org", "jobs": "https://www.publicservicecareers.org/jobs", "api": false, "api_type": "none"}
+{"name": "UN Careers", "root": "https://careers.un.org", "jobs": "https://careers.un.org", "api": false, "api_type": "none"}
+{"name": "ReliefWeb Jobs", "root": "https://reliefweb.int", "jobs": "https://reliefweb.int/jobs", "api": true, "api_type": "public"}
+{"name": "Devex Jobs", "root": "https://www.devex.com", "jobs": "https://www.devex.com/jobs", "api": true, "api_type": "recruiter-only"}
+{"name": "Bond (UK) Jobs", "root": "https://www.bond.org.uk", "jobs": "https://www.bond.org.uk/jobs", "api": false, "api_type": "none"}
+{"name": "CharityJob (UK)", "root": "https://www.charityjob.co.uk", "jobs": "https://www.charityjob.co.uk/jobs", "api": true, "api_type": "recruiter-only"}
+{"name": "Giving Compass", "root": "https://givingcompass.org", "jobs": "https://givingcompass.org/opportunities", "api": false, "api_type": "none"}
+{"name": "Good Food Jobs", "root": "https://www.goodfoodjobs.com", "jobs": "https://www.goodfoodjobs.com/search", "api": false, "api_type": "none"}
+{"name": "B Work (B Corps)", "root": "https://www.bwork.com", "jobs": "https://www.bwork.com/en/jobs", "api": false, "api_type": "none"}
