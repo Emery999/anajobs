@@ -7,6 +7,7 @@ A Python application for managing and processing job site data from non-profit o
 - 🔧 **Data Processing**: Parses corrupted JSONL files and extracts organization data
 - 🗄️ **MongoDB Integration**: Stores and manages organization data with proper indexing
 - 🔍 **Search & Query**: Advanced search capabilities for organizations
+- 🌐 **Web Content Extraction**: Extracts text content from job pages and linked pages
 - 🖥️ **CLI Interface**: Command-line tools for easy data management
 - 🧪 **Testing**: Comprehensive test suite with pytest
 - 📊 **Statistics**: Database statistics and reporting
@@ -110,6 +111,18 @@ python -m anajobs.cli test
    ./scripts/run.sh stats
    ```
 
+5. **Extract text content from job pages:**
+   ```bash
+   # Extract from sample organization (American Red Cross)
+   ./scripts/run.sh extract --sample
+   
+   # Extract from specific organization
+   ./scripts/run.sh extract --org-name "Environmental Defense Fund"
+   
+   # Extract with custom settings and save to file
+   ./scripts/run.sh extract --sample --max-pages 10 --delay 2.0 --output-file extracted_content.json
+   ```
+
 ## Project Structure
 
 ```
@@ -167,6 +180,7 @@ Edit `config/config.json`:
 
 ### Python API
 
+#### Database Operations
 ```python
 from anajobs import NonProfitJobSiteDB
 
@@ -186,6 +200,33 @@ if db.connect():
     
     # Close connection
     db.close_connection()
+```
+
+#### Web Content Extraction
+```python
+from anajobs import extract_organization_text, WebExtractor
+
+# Quick extraction (convenience function)
+org_data = {
+    'name': 'American Red Cross',
+    'root': 'https://www.redcross.org',
+    'jobs': 'https://www.redcross.org/about-us/careers'
+}
+
+result = extract_organization_text(org_data, max_pages=5, delay=1.0)
+
+if result['extraction_successful']:
+    print(f"Extracted {len(result['extracted_text'])} characters")
+    print(f"From {result['total_pages']} pages")
+    print(f"Sample text: {result['extracted_text'][:200]}...")
+
+# Advanced extraction with custom settings
+extractor = WebExtractor(max_pages=10, delay=2.0, timeout=15)
+try:
+    detailed_result = extractor.extract_organization_content(org_data)
+    # Process detailed_result...
+finally:
+    extractor.close()
 ```
 
 ### Direct MongoDB Access

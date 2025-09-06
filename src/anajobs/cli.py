@@ -10,6 +10,7 @@ from pathlib import Path
 
 from .database import NonProfitJobSiteDB
 from .config import get_config
+from .extractor import extract_organization_text
 
 def main():
     """Main CLI entry point"""
@@ -44,6 +45,19 @@ def main():
     # Stats command
     stats_parser = subparsers.add_parser('stats', help='Show database statistics')
     
+    # Extract command
+    extract_parser = subparsers.add_parser('extract', help='Extract text content from job pages')
+    extract_parser.add_argument('--org-name', '-o', 
+                               help='Organization name to extract content from')
+    extract_parser.add_argument('--max-pages', '-m', type=int, default=5,
+                               help='Maximum pages to crawl per organization (default: 5)')
+    extract_parser.add_argument('--delay', '-d', type=float, default=1.0,
+                               help='Delay between requests in seconds (default: 1.0)')
+    extract_parser.add_argument('--output-file', '-f',
+                               help='Save extracted content to file')
+    extract_parser.add_argument('--sample', '-s', action='store_true',
+                               help='Extract from sample organization (American Red Cross)')
+    
     args = parser.parse_args()
     
     if not args.command:
@@ -61,6 +75,8 @@ def main():
             return search_command(args, config)
         elif args.command == 'stats':
             return stats_command(args, config)
+        elif args.command == 'extract':
+            return extract_command(args, config)
     except Exception as e:
         print(f"Error: {e}", file=sys.stderr)
         return 1
@@ -195,6 +211,120 @@ def stats_command(args, config):
     
     db_manager.close_connection()
     return 0
+
+def extract_command(args, config):
+    """Handle extract command"""
+    import json
+    from datetime import datetime
+    
+    connection_string = config.get('mongodb_uri', 'mongodb://localhost:27017/')
+    database_name = config.get('database_name', 'nonprofit_jobs')
+    
+    db_manager = NonProfitJobSiteDB(connection_string, database_name)
+    
+    if not db_manager.connect():
+        print("Failed to connect to MongoDB", file=sys.stderr)
+        return 1
+    
+    # Determine which organization(s) to extract from
+    if args.sample:
+        # Use sample organization for testing
+        org_data = {
+            'name': 'American Red Cross',
+            'root': 'https://www.redcross.org',
+            'jobs': 'https://www.redcross.org/about-us/careers'
+        }
+        orgs_to_extract = [org_data]
+        print("Extracting from sample organization: American Red Cross")
+    elif args.org_name:
+        # Find specific organization in database
+        collection = db_manager.db[db_manager.collection_name]
+        org = collection.find_one({"name": {"$regex": args.org_name, "$options": "i"}})
+        
+        if not org:
+            print(f"Organization '{args.org_name}' not found in database", file=sys.stderr)
+            db_manager.close_connection()
+            return 1
+            
+        orgs_to_extract = [org]
+        print(f"Extracting from: {org['name']}")
+    else:
+        print("Please specify --org-name or use --sample for testing", file=sys.stderr)
+        db_manager.close_connection()
+        return 1
+    
+    # Extract content from organization(s)
+    extraction_results = []
+    
+    for org in orgs_to_extract:
+        print(f"\n=== Extracting content from {org['name']} ===")
+        print(f"Jobs URL: {org.get('jobs', 'N/A')}")
+        
+        try:
+            result = extract_organization_text(
+                org, 
+                max_pages=args.max_pages, 
+                delay=args.delay
+            )
+            
+            extraction_results.append(result)
+            
+            # Display summary
+            if result['extraction_successful']:
+                print(f"✅ Successfully extracted content")
+                print(f"   Pages crawled: {result['total_pages']}")
+                print(f"   Text length: {len(result['extracted_text'])} characters")
+                if result['pages_crawled']:
+                    print(f"   URLs crawled:")
+                    for url in result['pages_crawled']:
+                        print(f"     - {url}")
+            else:
+                print("❌ Extraction failed")
+                
+            if result['errors']:
+                print(f"   Errors: {len(result['errors'])}")
+                for error in result['errors'][:3]:  # Show first 3 errors
+                    print(f"     - {error}")
+                    
+        except Exception as e:
+            print(f"❌ Error extracting from {org['name']}: {e}")
+            extraction_results.append({
+                'organization': org['name'],
+                'extraction_successful': False,
+                'errors': [str(e)]
+            })
+    
+    # Save results to file if requested
+    if args.output_file:
+        output_data = {
+            'extraction_timestamp': datetime.now().isoformat(),
+            'extraction_config': {
+                'max_pages': args.max_pages,
+                'delay': args.delay
+            },
+            'results': extraction_results
+        }
+        
+        try:
+            with open(args.output_file, 'w', encoding='utf-8') as f:
+                json.dump(output_data, f, indent=2, ensure_ascii=False)
+            print(f"\n✅ Results saved to: {args.output_file}")
+        except Exception as e:
+            print(f"❌ Error saving results: {e}", file=sys.stderr)
+    
+    # Display sample text if successful
+    for result in extraction_results:
+        if result['extraction_successful'] and result['extracted_text']:
+            print(f"\n=== Sample extracted text from {result['organization']} ===")
+            sample_text = result['extracted_text'][:500]  # First 500 characters
+            print(f"{sample_text}...")
+            if len(result['extracted_text']) > 500:
+                print(f"(showing first 500 of {len(result['extracted_text'])} total characters)")
+    
+    db_manager.close_connection()
+    
+    # Return success if any extraction was successful
+    return 0 if any(r['extraction_successful'] for r in extraction_results) else 1
 
 if __name__ == '__main__':
     sys.exit(main())
