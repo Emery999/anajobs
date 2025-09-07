@@ -1,0 +1,83 @@
+{"name": "Idealist", "root": "https://www.idealist.org", "jobs": "https://www.idealist.org/en/jobs", "api": "true", "api_type": "public"}
+{"name": "Work for Good", "root": "https://www.workforgood.org", "jobs": "https://www.workforgood.org/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Chronicle of Philanthropy Jobs", "root": "https://www.philanthropy.com", "jobs": "https://www.philanthropy.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "National Council of Nonprofits (Career Board)", "root": "https://www.councilofnonprofits.org", "jobs": "https://careers.councilofnonprofits.org", "api": "unknown", "api_type": "unknown"}
+{"name": "Philanthropy News Digest Jobs", "root": "https://philanthropynewsdigest.org", "jobs": "https://philanthropynewsdigest.org/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "The NonProfit Times Job Board", "root": "https://www.thenonprofittimes.com", "jobs": "https://www.thenonprofittimes.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Foundation List", "root": "https://www.foundationlist.org", "jobs": "https://www.foundationlist.org/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Impact Opportunity", "root": "https://www.impactopportunity.org", "jobs": "https://www.impactopportunity.org/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Net Impact Job Board", "root": "https://www.netimpact.org", "jobs": "https://www.netimpact.org/careers/job-board", "api": "unknown", "api_type": "unknown"}
+{"name": "Tech Jobs for Good", "root": "https://www.techjobsforgood.com", "jobs": "https://www.techjobsforgood.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "NextBillion Jobs", "root": "https://nextbillion.net", "jobs": "https://nextbillion.net/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Escape the City", "root": "https://www.escapethecity.org", "jobs": "https://www.escapethecity.org/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "B Work (B Corps)", "root": "https://www.bwork.com", "jobs": "https://www.bwork.com/en/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "USAJobs (US Federal)", "root": "https://www.usajobs.gov", "jobs": "https://www.usajobs.gov", "api": "true", "api_type": "public"}
+{"name": "GovernmentJobs.com (NEOGOV)", "root": "https://www.governmentjobs.com", "jobs": "https://www.governmentjobs.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "PublicServiceCareers.org", "root": "https://www.publicservicecareers.org", "jobs": "https://www.publicservicecareers.org/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Civil Service Jobs (UK)", "root": "https://www.civilservicejobs.service.gov.uk", "jobs": "https://www.civilservicejobs.service.gov.uk/csr/index.cgi", "api": "unknown", "api_type": "unknown"}
+{"name": "EU Careers (EPSO)", "root": "https://eu-careers.europa.eu", "jobs": "https://eu-careers.europa.eu/en/job-opportunities", "api": "unknown", "api_type": "unknown"}
+{"name": "EuroBrussels", "root": "https://www.eurobrussels.com", "jobs": "https://www.eurobrussels.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "EURACTIV JobSite", "root": "https://jobs.euractiv.com", "jobs": "https://jobs.euractiv.com", "api": "unknown", "api_type": "unknown"}
+{"name": "UN Careers", "root": "https://careers.un.org", "jobs": "https://careers.un.org", "api": "unknown", "api_type": "unknown"}
+{"name": "UNDP Jobs", "root": "https://www.undp.org", "jobs": "https://www.undp.org/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "UNICEF Careers", "root": "https://www.unicef.org", "jobs": "https://www.unicef.org/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "WHO Careers", "root": "https://www.who.int", "jobs": "https://www.who.int/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "WFP Careers", "root": "https://www.wfp.org", "jobs": "https://www.wfp.org/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "FAO Jobs", "root": "https://www.fao.org", "jobs": "https://www.fao.org/employment/en", "api": "unknown", "api_type": "unknown"}
+{"name": "UN Women Careers", "root": "https://www.unwomen.org", "jobs": "https://www.unwomen.org/en/about-us/employment", "api": "unknown", "api_type": "unknown"}
+{"name": "UNHCR Careers", "root": "https://www.unhcr.org", "jobs": "https://www.unhcr.org/careers.html", "api": "unknown", "api_type": "unknown"}
+{"name": "IOM Careers", "root": "https://www.iom.int", "jobs": "https://www.iom.int/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "ILO Jobs", "root": "https://www.ilo.org", "jobs": "https://jobs.ilo.org", "api": "unknown", "api_type": "unknown"}
+{"name": "UNESCO Careers", "root": "https://www.unesco.org", "jobs": "https://careers.unesco.org", "api": "unknown", "api_type": "unknown"}
+{"name": "UN Habitat Vacancies", "root": "https://unhabitat.org", "jobs": "https://unhabitat.org/vacancies", "api": "unknown", "api_type": "unknown"}
+{"name": "UN OCHA (ReliefWeb Jobs)", "root": "https://reliefweb.int", "jobs": "https://reliefweb.int/jobs", "api": "true", "api_type": "public"}
+{"name": "UNOPS Jobs", "root": "https://www.unops.org", "jobs": "https://jobs.unops.org", "api": "unknown", "api_type": "unknown"}
+{"name": "World Bank Group Jobs", "root": "https://www.worldbank.org", "jobs": "https://www.worldbank.org/en/about/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "IFC Careers", "root": "https://www.ifc.org", "jobs": "https://www.ifc.org/wps/wcm/connect/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "IMF Careers", "root": "https://www.imf.org", "jobs": "https://www.imf.org/en/About/Recruitment", "api": "unknown", "api_type": "unknown"}
+{"name": "OECD Careers", "root": "https://www.oecd.org", "jobs": "https://www.oecd.org/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "Council of Europe Jobs", "root": "https://www.coe.int", "jobs": "https://www.coe.int/en/web/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "OSCE Jobs", "root": "https://www.osce.org", "jobs": "https://jobs.osce.org", "api": "unknown", "api_type": "unknown"}
+{"name": "NATO Careers", "root": "https://www.nato.int", "jobs": "https://www.nato.int/cps/en/natolive/recruit-wide.htm", "api": "unknown", "api_type": "unknown"}
+{"name": "Asian Development Bank (ADB) Careers", "root": "https://www.adb.org", "jobs": "https://www.adb.org/work-with-us/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "African Development Bank (AfDB) Jobs", "root": "https://www.afdb.org", "jobs": "https://www.afdb.org/en/vacancies", "api": "unknown", "api_type": "unknown"}
+{"name": "Inter-American Development Bank (IDB) Careers", "root": "https://www.iadb.org", "jobs": "https://www.iadb.org/en/careers", "api": "unknown", "api_type": "unknown"}
+{"name": "Devex Jobs", "root": "https://www.devex.com", "jobs": "https://www.devex.com/jobs", "api": "true", "api_type": "recruiter-only"}
+{"name": "Impactpool", "root": "https://www.impactpool.org", "jobs": "https://www.impactpool.org/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "DevNetJobs", "root": "https://www.devnetjobs.org", "jobs": "https://www.devnetjobs.org", "api": "unknown", "api_type": "unknown"}
+{"name": "ALNAP Vacancies", "root": "https://www.alnap.org", "jobs": "https://www.alnap.org/vacancies", "api": "unknown", "api_type": "unknown"}
+{"name": "Bond (UK) Jobs", "root": "https://www.bond.org.uk", "jobs": "https://www.bond.org.uk/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Humentum Jobs", "root": "https://humentum.org", "jobs": "https://humentum.org/careers/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Climatebase", "root": "https://www.climatebase.org", "jobs": "https://www.climatebase.org/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Green Jobs Board", "root": "https://www.greenjobsboard.com", "jobs": "https://www.greenjobsboard.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Green Jobs Online", "root": "https://www.greenjobsonline.co.uk", "jobs": "https://www.greenjobsonline.co.uk/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "SustainableBusiness Jobs", "root": "https://www.sustainablebusiness.com", "jobs": "https://www.sustainablebusiness.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "EnvironmentalCareer.com", "root": "https://www.environmentalcareer.com", "jobs": "https://www.environmentalcareer.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Conservation Job Board", "root": "https://www.conservationjobboard.com", "jobs": "https://www.conservationjobboard.com", "api": "unknown", "api_type": "unknown"}
+{"name": "Conservation Careers", "root": "https://www.conservation-careers.com", "jobs": "https://www.conservation-careers.com/job-board", "api": "unknown", "api_type": "unknown"}
+{"name": "EnvironmentJobs.com", "root": "https://www.environmentjobs.com", "jobs": "https://www.environmentjobs.com", "api": "unknown", "api_type": "unknown"}
+{"name": "Environmentjob (UK)", "root": "https://www.environmentjob.co.uk", "jobs": "https://www.environmentjob.co.uk/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Texas A&M Natural Resources Job Board", "root": "https://wfscjobs.tamu.edu", "jobs": "https://wfscjobs.tamu.edu/job-board", "api": "unknown", "api_type": "unknown"}
+{"name": "GreenJobs (UK)", "root": "https://www.greenjobs.co.uk", "jobs": "https://www.greenjobs.co.uk/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "ClimateTechList Jobs", "root": "https://www.climatetechlist.com", "jobs": "https://www.climatetechlist.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Terra.do Climate Jobs", "root": "https://www.terra.do", "jobs": "https://www.terra.do/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "MCJ Collective Job Board", "root": "https://www.myclimatejourney.co", "jobs": "https://jobs.myclimatejourney.co", "api": "unknown", "api_type": "unknown"}
+{"name": "Work on Climate Jobs", "root": "https://www.workonclimate.org", "jobs": "https://www.workonclimate.org/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "CharityVillage (Canada)", "root": "https://charityvillage.com", "jobs": "https://charityvillage.com/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "WorkInNonProfits.ca", "root": "https://workinnonprofits.ca", "jobs": "https://workinnonprofits.ca/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "GoodWork.ca (Green Jobs)", "root": "https://www.goodwork.ca", "jobs": "https://www.goodwork.ca/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "ECO Canada Job Board", "root": "https://eco.ca", "jobs": "https://www.eco.ca/job-board", "api": "unknown", "api_type": "unknown"}
+{"name": "CharityJob (UK)", "root": "https://www.charityjob.co.uk", "jobs": "https://www.charityjob.co.uk/jobs", "api": "true", "api_type": "recruiter-only"}
+{"name": "Third Sector Jobs (UK)", "root": "https://jobs.thirdsector.co.uk", "jobs": "https://jobs.thirdsector.co.uk", "api": "unknown", "api_type": "unknown"}
+{"name": "Guardian Jobs \u2013 Charities (UK)", "root": "https://jobs.theguardian.com", "jobs": "https://jobs.theguardian.com/jobs/charities", "api": "unknown", "api_type": "unknown"}
+{"name": "NGO Jobs in Europe", "root": "https://ngojobseurope.com", "jobs": "https://ngojobseurope.com", "api": "unknown", "api_type": "unknown"}
+{"name": "Euro NGO Jobs (NGOJobs.eu)", "root": "https://www.ngojobs.eu", "jobs": "https://www.ngojobs.eu/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "EthicalJobs (Australia)", "root": "https://www.ethicaljobs.com.au", "jobs": "https://www.ethicaljobs.com.au/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Pro Bono Australia Jobs", "root": "https://probonoaustralia.com.au", "jobs": "https://probonoaustralia.com.au/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "NRMjobs (Australia)", "root": "https://nrmjobs.com.au", "jobs": "https://nrmjobs.com.au/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "Do Good Jobs (New Zealand)", "root": "https://dogoodjobs.co.nz", "jobs": "https://dogoodjobs.co.nz/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "APHA Public Health CareerMart", "root": "https://www.apha.org", "jobs": "https://careers.apha.org", "api": "unknown", "api_type": "unknown"}
+{"name": "Global Health Jobs (GHC)", "root": "https://globalhealth.org", "jobs": "https://jobs.globalhealth.org", "api": "unknown", "api_type": "unknown"}
+{"name": "PublicHealthJobs.org", "root": "https://publichealthjobs.org", "jobs": "https://publichealthjobs.org", "api": "unknown", "api_type": "unknown"}
+{"name": "Civic Tech Jobs (Civic Tech Field Guide)", "root": "https://www.civictech.guide", "jobs": "https://www.civictech.guide/jobs", "api": "unknown", "api_type": "unknown"}
+{"name": "New America \u2013 Public Interest Technology Jobs", "root": "https://www.newamerica.org", "jobs": "https://www.newamerica.org/public-interest-technology/jobs", "api": "unknown", "api_type": "unknown"}
