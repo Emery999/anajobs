@@ -1,0 +1,390 @@
+{"name":"4Ocean","root":"https://www.4ocean.com","jobs":"https://www.4ocean.com/pages/careers","sector":"Environmental Services"}
+{"name":"AASOKA","root":"https://www.aasoka.com","jobs":"https://www.aasoka.com/careers","sector":"Social Services"}
+{"name":"ABC Doc","root":"https://abcdoc.de","jobs":"https://abcdoc.de/careers","sector":"Social Services"}
+{"name":"ACLU","root":"https://www.aclu.org","jobs":"https://www.aclu.org/careers","sector":"Professional Consulting Services"}
+{"name":"ACCIONA","root":"https://www.acciona.com","jobs":"https://www.acciona.com/careers","sector":"Social Services"}
+{"name":"ACTED","root":"https://www.acted.org","jobs":"https://www.acted.org/en/get-involved/work-with-us","sector":"Social Services"}
+{"name":"AES Distributed Energy","root":"https://www.aes.com","jobs":"https://www.aes.com/careers","sector":"Environmental Services"}
+{"name":"Aeroclass","root":"https://aeroclass.org","jobs":"https://aeroclass.org/careers","sector":"Education"}
+{"name":"Aevice Health","root":"https://www.aevicehealth.com","jobs":"https://www.aevicehealth.com/careers","sector":"Healthcare"}
+{"name":"African Wildlife Foundation (AWF)","root":"https://www.awf.org","jobs":"https://www.awf.org/careers","sector":"Environmental Services"}
+{"name":"All Hands and Hearts","root":"https://www.allhandsandhearts.org","jobs":"https://www.allhandsandhearts.org/get-involved/careers","sector":"Healthcare"}
+{"name":"Alzheimer's Association","root":"https://www.alz.org","jobs":"https://jobs.alz.org","sector":"Healthcare"}
+{"name":"ALZAI Health","root":"https://alzai.com","jobs":"https://alzai.com/careers","sector":"Information Technology Services"}
+{"name":"Amazon Conservation Team","root":"https://www.amazonteam.org","jobs":"https://www.amazonteam.org/about/careers","sector":"Environmental Services"}
+{"name":"American Cancer Society","root":"https://www.cancer.org","jobs":"https://www.cancer.org/about-us/careers","sector":"Healthcare"}
+{"name":"American Heart Association","root":"https://www.heart.org","jobs":"https://www.heart.org/en/get-involved/careers","sector":"Healthcare"}
+{"name":"American Red Cross","root":"https://www.redcross.org","jobs":"https://www.redcross.org/about-us/careers.html","sector":"Social Services"}
+{"name":"Amnesty International","root":"https://www.amnesty.org","jobs":"https://www.amnesty.org/en/careers","sector":"Social Services"}
+{"name":"Andela","root":"https://www.andela.com","jobs":"https://www.andela.com/careers","sector":"Social Services"}
+{"name":"Another Tomorrow","root":"https://www.anothertomorrow.co","jobs":"https://www.anothertomorrow.co/careers","sector":"Manufacturing and Materials"}
+{"name":"Apeel Sciences","root":"https://www.apeel.com","jobs":"https://www.apeel.com/careers","sector":"Agriculture and Food Production"}
+{"name":"Arcadia Power","root":"https://www.arcadia.com","jobs":"https://www.arcadia.com/careers","sector":"Environmental Services"}
+{"name":"Ashoka","root":"https://www.ashoka.org","jobs":"https://www.ashoka.org/en-us/careers","sector":"Professional Consulting Services"}
+{"name":"Astro Energy","root":"https://www.astroenergy.com","jobs":"https://www.astroenergy.com/careers","sector":"Environmental Services"}
+{"name":"Atorika","root":"https://www.atorika.com","jobs":"https://www.atorika.com/careers","sector":"Social Services"}
+{"name":"Australian Red Cross","root":"https://www.redcross.org.au","jobs":"https://www.redcross.org.au/careers","sector":"Social Services"}
+{"name":"Avaada Energy","root":"https://www.avaada.com","jobs":"https://www.avaada.com/careers","sector":"Environmental Services"}
+{"name":"B Lab","root":"https://www.bcorporation.net","jobs":"https://www.bcorporation.net/en-us/careers","sector":"Professional Consulting Services"}
+{"name":"BBOXX","root":"https://www.bboxx.co.uk","jobs":"https://www.bboxx.co.uk/careers","sector":"Environmental Services"}
+{"name":"Benetech","root":"https://benetech.org","jobs":"https://benetech.org/careers","sector":"Information Technology Services"}
+{"name":"Best Friends Animal Society","root":"https://bestfriends.org","jobs":"https://bestfriends.org/about/careers","sector":"Animal Welfare"}
+{"name":"Bill & Melinda Gates Foundation","root":"https://www.gatesfoundation.org","jobs":"https://www.gatesfoundation.org/about/careers","sector":"Social Services"}
+{"name":"Bilt Rewards","root":"https://www.biltrewards.com","jobs":"https://www.biltrewards.com/careers","sector":"Financial Services"}
+{"name":"BioLite","root":"https://www.bioliteenergy.com","jobs":"https://www.bioliteenergy.com/pages/careers","sector":"Healthcare"}
+{"name":"Biobot Analytics","root":"https://biobot.io","jobs":"https://biobot.io/careers","sector":"Information Technology Services"}
+{"name":"Black Girls Code","root":"https://www.blackgirlscode.com","jobs":"https://www.blackgirlscode.com/careers","sector":"Education"}
+{"name":"Bloom Diagnostics","root":"https://www.bloomdiagnostics.com","jobs":"https://www.bloomdiagnostics.com/careers","sector":"Healthcare"}
+{"name":"Blue Marine Foundation","root":"https://www.bluemarinefoundation.com","jobs":"https://www.bluemarinefoundation.com/careers","sector":"Environmental Services"}
+{"name":"Bluetech Clean Seas","root":"https://www.bluetechcleanseas.org","jobs":"https://www.bluetechcleanseas.org/careers","sector":"Information Technology Services"}
+{"name":"Bolt Threads","root":"https://boltthreads.com","jobs":"https://boltthreads.com/careers","sector":"Manufacturing and Materials"}
+{"name":"BRAC","root":"https://www.brac.net","jobs":"https://careers.brac.net","sector":"Social Services"}
+{"name":"BRAC USA","root":"https://www.bracusa.org","jobs":"https://www.bracusa.org/careers","sector":"Social Services"}
+{"name":"Bright Night","root":"https://www.brightnightenergy.com","jobs":"https://www.brightnightenergy.com/careers","sector":"Environmental Services"}
+{"name":"British Red Cross","root":"https://www.redcross.org.uk","jobs":"https://www.redcross.org.uk/get-involved/jobs","sector":"Social Services"}
+{"name":"Build Change","root":"https://buildchange.org","jobs":"https://buildchange.org/about/careers","sector":"Social Services"}
+{"name":"BukuWarung","root":"https://www.bukuwarung.com","jobs":"https://www.bukuwarung.com/careers","sector":"Financial Services"}
+{"name":"Canadian Red Cross","root":"https://www.redcross.ca","jobs":"https://www.redcross.ca/about-us/careers","sector":"Social Services"}
+{"name":"Cancer Research UK","root":"https://www.cancerresearchuk.org","jobs":"https://www.cancerresearchuk.org/about-us/careers","sector":"Healthcare"}
+{"name":"Carbo Culture","root":"https://carboculture.com","jobs":"https://carboculture.com/careers","sector":"Manufacturing and Materials"}
+{"name":"Carbon180","root":"https://carbon180.org","jobs":"https://carbon180.org/careers","sector":"Environmental Services"}
+{"name":"CarbonCapture","root":"https://www.carboncapture.com","jobs":"https://www.carboncapture.com/careers","sector":"Environmental Services"}
+{"name":"CARE","root":"https://www.care.org","jobs":"https://www.care.org/careers","sector":"Social Services"}
+{"name":"CARE Australia","root":"https://www.care.org.au","jobs":"https://www.care.org.au/careers","sector":"Social Services"}
+{"name":"CARE Bangladesh","root":"https://www.carebangladesh.org","jobs":"https://www.carebangladesh.org/career","sector":"Social Services"}
+{"name":"CARE Canada","root":"https://care.ca","jobs":"https://care.ca/careers","sector":"Social Services"}
+{"name":"CARE India","root":"https://www.careindia.org","jobs":"https://www.careindia.org/careers","sector":"Social Services"}
+{"name":"CARE International UK","root":"https://www.careinternational.org.uk","jobs":"https://www.careinternational.org.uk/careers","sector":"Social Services"}
+{"name":"CARE Nederland","root":"https://www.carenederland.org","jobs":"https://www.carenederland.org/vacancies","sector":"Social Services"}
+{"name":"CARE USA","root":"https://www.care.org","jobs":"https://www.care.org/careers","sector":"Social Services"}
+{"name":"CareMessage","root":"https://caremessage.org","jobs":"https://caremessage.org/careers","sector":"Media and Communications"}
+{"name":"Careerist","root":"https://careerist.com","jobs":"https://careerist.com/careers","sector":"Education"}
+{"name":"The Carter Center","root":"https://www.cartercenter.org","jobs":"https://www.cartercenter.org/about/careers","sector":"Social Services"}
+{"name":"Catholic Relief Services (CRS)","root":"https://www.crs.org","jobs":"https://www.crs.org/about/careers","sector":"Social Services"}
+{"name":"CDP (Carbon Disclosure Project)","root":"https://www.cdp.net","jobs":"https://www.cdp.net/en/info/careers","sector":"Environmental Services"}
+{"name":"Center for Public Integrity","root":"https://publicintegrity.org","jobs":"https://publicintegrity.org/about/careers","sector":"Professional Consulting Services"}
+{"name":"Centre for Effective Altruism (CEA)","root":"https://www.centreforeffectivealtruism.org","jobs":"https://www.centreforeffectivealtruism.org/careers","sector":"Professional Consulting Services"}
+{"name":"Ceres","root":"https://www.ceres.org","jobs":"https://www.ceres.org/careers","sector":"Environmental Services"}
+{"name":"charity: digital","root":"https://www.charitydigital.org.uk","jobs":"https://www.charitydigital.org.uk/jobs","sector":"Information Technology Services"}
+{"name":"charity: water","root":"https://www.charitywater.org","jobs":"https://www.charitywater.org/about/careers","sector":"Environmental Services"}
+{"name":"Charity Navigator","root":"https://www.charitynavigator.org","jobs":"https://www.charitynavigator.org/about/careers","sector":"Social Services"}
+{"name":"City Harvest","root":"https://www.cityharvest.org","jobs":"https://www.cityharvest.org/careers","sector":"Agriculture and Food Production"}
+{"name":"Clean Air Task Force","root":"https://www.catf.us","jobs":"https://www.catf.us/careers","sector":"Information Technology Services"}
+{"name":"ClientEarth","root":"https://www.clientearth.org","jobs":"https://www.clientearth.org/careers","sector":"Professional Consulting Services"}
+{"name":"The Climate Reality Project","root":"https://www.climaterealityproject.org","jobs":"https://www.climaterealityproject.org/careers","sector":"Environmental Services"}
+{"name":"ClimateWorks Foundation","root":"https://www.climateworks.org","jobs":"https://www.climateworks.org/careers","sector":"Environmental Services"}
+{"name":"Clinton Health Access Initiative (CHAI)","root":"https://www.clintonhealthaccess.org","jobs":"https://careers-chai.icims.com/jobs","sector":"Information Technology Services"}
+{"name":"Coalition for Rainforest Nations","root":"https://www.rainforestcoalition.org","jobs":"https://www.rainforestcoalition.org/careers","sector":"Information Technology Services"}
+{"name":"Code for America","root":"https://www.codeforamerica.org","jobs":"https://www.codeforamerica.org/careers","sector":"Information Technology Services"}
+{"name":"Code.org","root":"https://code.org","jobs":"https://code.org/jobs","sector":"Education"}
+{"name":"Codemao","root":"https://www.codemao.cn","jobs":"https://www.codemao.cn/careers","sector":"Education"}
+{"name":"Codingal","root":"https://www.codingal.com","jobs":"https://www.codingal.com/careers","sector":"Education"}
+{"name":"Coinlink","root":"https://coinlink.com","jobs":"https://coinlink.com/careers","sector":"Financial Services"}
+{"name":"Collective","root":"https://collective.com","jobs":"https://collective.com/careers","sector":"Financial Services"}
+{"name":"Commonwealth Fusion Systems","root":"https://www.cfs.energy","jobs":"https://www.cfs.energy/careers","sector":"Environmental Services"}
+{"name":"Concern Worldwide","root":"https://www.concern.net","jobs":"https://www.concern.net/careers","sector":"Social Services"}
+{"name":"Conservation International","root":"https://www.conservation.org","jobs":"https://www.conservation.org/about/careers","sector":"Environmental Services"}
+{"name":"Conservation Strategy Fund","root":"https://www.conservation-strategy.org","jobs":"https://www.conservation-strategy.org/jobs","sector":"Environmental Services"}
+{"name":"Conservation Volunteers International","root":"https://www.conservationvip.org","jobs":"https://www.conservationvip.org/volunteer/jobs","sector":"Environmental Services"}
+{"name":"Cowrywise","root":"https://cowrywise.com","jobs":"https://cowrywise.com/careers","sector":"Financial Services"}
+{"name":"Creative Commons","root":"https://creativecommons.org","jobs":"https://creativecommons.org/about/team-opportunities","sector":"Information Technology Services"}
+{"name":"Crisis","root":"https://www.crisis.org.uk","jobs":"https://www.crisis.org.uk/about-us/jobs","sector":"Social Services"}
+{"name":"Culture Care","root":"https://culturecare.io","jobs":"https://culturecare.io/careers","sector":"Information Technology Services"}
+{"name":"d.light","root":"https://www.dlight.com","jobs":"https://www.dlight.com/careers","sector":"Agriculture and Food Production"}
+{"name":"Danish Refugee Council (DRC)","root":"https://www.drc.ngo","jobs":"https://www.drc.ngo/about-us/working-with-us","sector":"Social Services"}
+{"name":"DataKind","root":"https://www.datakind.org","jobs":"https://www.datakind.org/jobs","sector":"Professional Consulting Services"}
+{"name":"Devoted Health","root":"https://www.devoted.com","jobs":"https://www.devoted.com/careers","sector":"Healthcare"}
+{"name":"Direct Relief","root":"https://www.directrelief.org","jobs":"https://www.directrelief.org/about/careers","sector":"Social Services"}
+{"name":"Do Good Points","root":"https://www.dogoodpoints.com","jobs":"https://www.dogoodpoints.com/careers","sector":"Financial Services"}
+{"name":"Doctors of the World (MÃ©decins du Monde)","root":"https://www.medecinsdumonde.org","jobs":"https://www.medecinsdumonde.org/en/recruitment","sector":"Healthcare"}
+{"name":"DonorsChoose","root":"https://www.donorschoose.org","jobs":"https://www.donorschoose.org/careers","sector":"Education"}
+{"name":"Dost Education","root":"https://www.dosteducation.com","jobs":"https://www.dosteducation.com/careers","sector":"Education"}
+{"name":"Dreambox Learning","root":"https://www.dreambox.com","jobs":"https://www.dreambox.com/careers","sector":"Education"}
+{"name":"Eazipay","root":"https://eazipay.africa","jobs":"https://eazipay.africa/careers","sector":"Financial Services"}
+{"name":"Eco Femme","root":"https://ecofemme.org","jobs":"https://ecofemme.org/careers","sector":"Manufacturing and Materials"}
+{"name":"Eden Reforestation Projects","root":"https://www.edenprojects.org","jobs":"https://www.edenprojects.org/careers","sector":"Environmental Services"}
+{"name":"Effective Ventures","root":"https://www.effectiveventures.org","jobs":"https://www.effectiveventures.org/careers","sector":"Professional Consulting Services"}
+{"name":"Electric Hydrogen","root":"https://www.electrichydrogen.com","jobs":"https://www.electrichydrogen.com/careers","sector":"Environmental Services"}
+{"name":"Electronic Frontier Foundation (EFF)","root":"https://www.eff.org","jobs":"https://www.eff.org/opportunities","sector":"Information Technology Services"}
+{"name":"Electronic Privacy Information Center (EPIC)","root":"https://epic.org","jobs":"https://epic.org/epic-jobs","sector":"Professional Consulting Services"}
+{"name":"Electrion","root":"https://www.electrion.com","jobs":"https://www.electrion.com/careers","sector":"Environmental Services"}
+{"name":"ELdeS","root":"https://eldes.com","jobs":"https://eldes.com/careers","sector":"Environmental Services"}
+{"name":"Engineers Without Borders USA","root":"https://www.ewb-usa.org","jobs":"https://www.ewb-usa.org/about-us/careers","sector":"Social Services"}
+{"name":"ENVIRIA","root":"https://www.enviria.com","jobs":"https://www.enviria.com/careers","sector":"Environmental Services"}
+{"name":"Environmental Defense Fund (EDF)","root":"https://www.edf.org","jobs":"https://www.edf.org/jobs","sector":"Environmental Services"}
+{"name":"European Environmental Bureau (EEB)","root":"https://eeb.org","jobs":"https://eeb.org/jobs","sector":"Environmental Services"}
+{"name":"Evidence Action","root":"https://www.evidenceaction.org","jobs":"https://www.evidenceaction.org/careers","sector":"Professional Consulting Services"}
+{"name":"Fairphone","root":"https://www.fairphone.com","jobs":"https://www.fairphone.com/en/careers","sector":"Information Technology Services"}
+{"name":"Fairtrade International","root":"https://www.fairtrade.net","jobs":"https://www.fairtrade.net/about/careers","sector":"Information Technology Services"}
+{"name":"FAO (Food and Agriculture Organization)","root":"https://www.fao.org","jobs":"https://www.fao.org/employment/en","sector":"Agriculture and Food Production"}
+{"name":"Fauna & Flora","root":"https://www.fauna-flora.org","jobs":"https://www.fauna-flora.org/careers","sector":"Social Services"}
+{"name":"Feeding America","root":"https://www.feedingamerica.org","jobs":"https://www.feedingamerica.org/about-us/careers","sector":"Social Services"}
+{"name":"FHI 360","root":"https://www.fhi360.org","jobs":"https://www.fhi360.org/careers","sector":"Social Services"}
+{"name":"Finom","root":"https://finom.co","jobs":"https://finom.co/careers","sector":"Financial Services"}
+{"name":"Finxone","root":"https://finxone.com","jobs":"https://finxone.com/careers","sector":"Financial Services"}
+{"name":"Firsthand","root":"https://getfirsthand.com","jobs":"https://getfirsthand.com/careers","sector":"Financial Services"}
+{"name":"Flexeole","root":"https://www.flexeole.com","jobs":"https://www.flexeole.com/careers","sector":"Environmental Services"}
+{"name":"Ford Foundation","root":"https://www.fordfoundation.org","jobs":"https://www.fordfoundation.org/careers","sector":"Social Services"}
+{"name":"Formation Bio","root":"https://www.formationbio.com","jobs":"https://www.formationbio.com/careers","sector":"Information Technology Services"}
+{"name":"Fotowatio Renewable Ventures","root":"https://www.fotovatiosrv.com","jobs":"https://www.fotovatiosrv.com/careers","sector":"Environmental Services"}
+{"name":"Freedom House","root":"https://freedomhouse.org","jobs":"https://freedomhouse.org/careers","sector":"Social Services"}
+{"name":"FreeWater","root":"https://www.freewater.io","jobs":"https://www.freewater.io/careers","sector":"Environmental Services"}
+{"name":"Freyr Energy","root":"https://www.freyrenergy.com","jobs":"https://www.freyrenergy.com/careers","sector":"Environmental Services"}
+{"name":"Friends of the Earth","root":"https://foe.org","jobs":"https://foe.org/jobs","sector":"Social Services"}
+{"name":"Gavi, the Vaccine Alliance","root":"https://www.gavi.org","jobs":"https://www.gavi.org/careers","sector":"Healthcare"}
+{"name":"German Red Cross (DRK)","root":"https://www.drk.de","jobs":"https://www.drk.de/en/be-involved/vacancies","sector":"Social Services"}
+{"name":"Girl Effect","root":"https://www.girleffect.org","jobs":"https://www.girleffect.org/careers","sector":"Media and Communications"}
+{"name":"Girls Who Code","root":"https://girlswhocode.com","jobs":"https://girlswhocode.com/careers","sector":"Education"}
+{"name":"GiveDirectly","root":"https://www.givedirectly.org","jobs":"https://www.givedirectly.org/careers","sector":"Social Services"}
+{"name":"GiveWell","root":"https://www.givewell.org","jobs":"https://www.givewell.org/about/jobs","sector":"Social Services"}
+{"name":"Glimpse12","root":"https://glimpse12.com","jobs":"https://glimpse12.com/careers","sector":"Information Technology Services"}
+{"name":"Global Alliance for Improved Nutrition (GAIN)","root":"https://www.gainhealth.org","jobs":"https://www.gainhealth.org/careers","sector":"Information Technology Services"}
+{"name":"The Global Fund","root":"https://www.theglobalfund.org","jobs":"https://www.theglobalfund.org/en/vacancies","sector":"Financial Services"}
+{"name":"Global Green","root":"https://globalgreen.org","jobs":"https://globalgreen.org/careers","sector":"Environmental Services"}
+{"name":"Global Witness","root":"https://www.globalwitness.org","jobs":"https://www.globalwitness.org/en/about-us/jobs","sector":"Professional Consulting Services"}
+{"name":"GlobalGiving","root":"https://www.globalgiving.org","jobs":"https://www.globalgiving.org/aboutus/jobs","sector":"Social Services"}
+{"name":"GOAL Global","root":"https://www.goalglobal.org","jobs":"https://www.goalglobal.org/careers","sector":"Social Services"}
+{"name":"GoStudent","root":"https://www.gostudent.org","jobs":"https://www.gostudent.org/careers","sector":"Education"}
+{"name":"Grail","root":"https://grail.com","jobs":"https://grail.com/careers","sector":"Information Technology Services"}
+{"name":"Greenpeace","root":"https://www.greenpeace.org","jobs":"https://www.greenpeace.org/international/explore/careers","sector":"Environmental Services"}
+{"name":"Greenly","root":"https://greenly.earth","jobs":"https://greenly.earth/careers","sector":"Environmental Services"}
+{"name":"GRID Alternatives","root":"https://gridalternatives.org","jobs":"https://gridalternatives.org/about/careers","sector":"Environmental Services"}
+{"name":"Grow Therapy","root":"https://www.growtherapy.com","jobs":"https://www.growtherapy.com/careers","sector":"Healthcare"}
+{"name":"Gynger","root":"https://www.gynger.io","jobs":"https://www.gynger.io/careers","sector":"Financial Services"}
+{"name":"Habitat for Humanity","root":"https://www.habitat.org","jobs":"https://www.habitat.org/about/careers","sector":"Social Services"}
+{"name":"Habitat for Humanity International (Global)","root":"https://www.habitat.org","jobs":"https://www.habitat.org/about/careers","sector":"Social Services"}
+{"name":"Headway","root":"https://headway.co","jobs":"https://headway.co/careers","sector":"Healthcare"}
+{"name":"Hearts in Harmony","root":"https://www.heartsinharmony.org","jobs":"https://www.heartsinharmony.org/careers","sector":"Healthcare"}
+{"name":"Heifer International","root":"https://www.heifer.org","jobs":"https://www.heifer.org/about-heifer/careers.html","sector":"Agriculture and Food Production"}
+{"name":"Helen Keller Intl","root":"https://www.hki.org","jobs":"https://www.hki.org/careers","sector":"Healthcare"}
+{"name":"The Fred Hollows Foundation","root":"https://www.hollows.org","jobs":"https://www.hollows.org/au/about/careers","sector":"Healthcare"}
+{"name":"HowNow","root":"https://www.hownow.com","jobs":"https://www.hownow.com/careers","sector":"Education"}
+{"name":"The Humane Society of the United States (HSUS)","root":"https://www.humanesociety.org","jobs":"https://www.humanesociety.org/about/careers","sector":"Animal Welfare"}
+{"name":"Human Rights Watch","root":"https://www.hrw.org","jobs":"https://www.hrw.org/careers","sector":"Social Services"}
+{"name":"Humanity & Inclusion (Handicap International)","root":"https://www.hi.org","jobs":"https://hi.org/en/jobs","sector":"Social Services"}
+{"name":"Humanitarian OpenStreetMap Team (HOT)","root":"https://www.hotosm.org","jobs":"https://www.hotosm.org/jobs","sector":"Information Technology Services"}
+{"name":"Icanheal","root":"https://icanheal.com","jobs":"https://icanheal.com/careers","sector":"Information Technology Services"}
+{"name":"IDinsight","root":"https://www.idinsight.org","jobs":"https://www.idinsight.org/careers","sector":"Healthcare"}
+{"name":"ImpulsoGov","root":"https://impulsogov.org","jobs":"https://impulsogov.org/careers","sector":"Professional Consulting Services"}
+{"name":"Immunity Project","root":"https://www.immunityproject.org","jobs":"https://www.immunityproject.org/careers","sector":"Healthcare"}
+{"name":"IDB (Inter-American Development Bank)","root":"https://www.iadb.org","jobs":"https://www.iadb.org/careers","sector":"Financial Services"}
+{"name":"Indee Labs","root":"https://www.indeelabs.com","jobs":"https://www.indeelabs.com/careers","sector":"Information Technology Services"}
+{"name":"Innovations for Poverty Action (IPA)","root":"https://www.poverty-action.org","jobs":"https://www.poverty-action.org/careers","sector":"Professional Consulting Services"}
+{"name":"Insilico Medicine","root":"https://insilico.com","jobs":"https://insilico.com/careers","sector":"Information Technology Services"}
+{"name":"International Animal Rescue","root":"https://www.internationalanimalrescue.org","jobs":"https://www.internationalanimalrescue.org/jobs","sector":"Animal Welfare"}
+{"name":"International Committee for the Development of Peoples (CISP)","root":"https://www.cisp.ngo","jobs":"https://www.cisp.ngo/work-with-us","sector":"Social Services"}
+{"name":"International Committee of the Red Cross (ICRC)","root":"https://www.icrc.org","jobs":"https://careers.icrc.org","sector":"Social Services"}
+{"name":"International Crisis Group","root":"https://www.crisisgroup.org","jobs":"https://www.crisisgroup.org/content/careers","sector":"Social Services"}
+{"name":"International Development Research Centre (IDRC)","root":"https://idrc-crdi.ca","jobs":"https://idrc-crdi.ca/en/careers","sector":"Professional Consulting Services"}
+{"name":"International Federation of Red Cross and Red Crescent Societies (IFRC)","root":"https://www.ifrc.org","jobs":"https://www.ifrc.org/careers","sector":"Social Services"}
+{"name":"International Fund for Agricultural Development (IFAD)","root":"https://www.ifad.org","jobs":"https://www.ifad.org/en/careers","sector":"Financial Services"}
+{"name":"International Justice Mission (IJM)","root":"https://www.ijm.org","jobs":"https://www.ijm.org/careers","sector":"Social Services"}
+{"name":"International Labour Organization (ILO)","root":"https://www.ilo.org","jobs":"https://jobs.ilo.org","sector":"Social Services"}
+{"name":"International Medical Corps","root":"https://internationalmedicalcorps.org","jobs":"https://internationalmedicalcorps.org/work-with-us","sector":"Healthcare"}
+{"name":"International Organization for Migration (IOM)","root":"https://www.iom.int","jobs":"https://recruit.iom.int","sector":"Social Services"}
+{"name":"International Planned Parenthood Federation (IPPF)","root":"https://www.ippf.org","jobs":"https://www.ippf.org/jobs","sector":"Social Services"}
+{"name":"International Rescue Committee (IRC)","root":"https://www.rescue.org","jobs":"https://www.rescue.org/careers","sector":"Social Services"}
+{"name":"International Union for Conservation of Nature (IUCN)","root":"https://www.iucn.org","jobs":"https://www.iucn.org/about/careers","sector":"Environmental Services"}
+{"name":"International Water Association (IWA)","root":"https://iwa-network.org","jobs":"https://iwa-network.org/careers","sector":"Environmental Services"}
+{"name":"International Women's Health Coalition (IWHC)","root":"https://iwhc.org","jobs":"https://iwhc.org/about/jobs","sector":"Healthcare"}
+{"name":"Internews","root":"https://internews.org","jobs":"https://internews.org/opportunities","sector":"Media and Communications"}
+{"name":"IONI","root":"https://ioni.ai","jobs":"https://ioni.ai/careers","sector":"Information Technology Services"}
+{"name":"Islamic Relief USA","root":"https://irusa.org","jobs":"https://irusa.org/careers","sector":"Social Services"}
+{"name":"Islamic Relief Worldwide","root":"https://www.islamic-relief.org","jobs":"https://www.islamic-relief.org/work-with-us","sector":"Social Services"}
+{"name":"J-PAL (Abdul Latif Jameel Poverty Action Lab)","root":"https://www.povertyactionlab.org","jobs":"https://www.povertyactionlab.org/careers","sector":"Professional Consulting Services"}
+{"name":"Jolt","root":"https://www.jolt.com","jobs":"https://www.jolt.com/careers","sector":"Social Services"}
+{"name":"Keeling Labs","root":"https://www.keelinglabs.com","jobs":"https://www.keelinglabs.com/careers","sector":"Information Technology Services"}
+{"name":"Khan Academy","root":"https://www.khanacademy.org","jobs":"https://www.khanacademy.org/careers","sector":"Education"}
+{"name":"Kiva","root":"https://www.kiva.org","jobs":"https://www.kiva.org/careers","sector":"Financial Services"}
+{"name":"Labster","root":"https://www.labster.com","jobs":"https://www.labster.com/careers","sector":"Education"}
+{"name":"Last Mile Health","root":"https://www.lastmilehealth.org","jobs":"https://www.lastmilehealth.org/careers","sector":"Healthcare"}
+{"name":"Lightsource Foundation","root":"https://www.lightsourcefoundation.org","jobs":"https://www.lightsourcefoundation.org/careers","sector":"Social Services"}
+{"name":"Liquid Wind","root":"https://www.liquidwind.se","jobs":"https://www.liquidwind.se/careers","sector":"Environmental Services"}
+{"name":"Literra","root":"https://www.literra.io","jobs":"https://www.literra.io/careers","sector":"Manufacturing and Materials"}
+{"name":"Living Earth","root":"https://www.livingearth.org.uk","jobs":"https://www.livingearth.org.uk/jobs","sector":"Social Services"}
+{"name":"Living Goods","root":"https://livinggoods.org","jobs":"https://livinggoods.org/who-we-are/careers","sector":"Agriculture and Food Production"}
+{"name":"M-KOPA","root":"https://m-kopa.com","jobs":"https://m-kopa.com/careers","sector":"Financial Services"}
+{"name":"Macmillan Cancer Support","root":"https://www.macmillan.org.uk","jobs":"https://www.macmillan.org.uk/about-us/work-and-volunteer-for-us/jobs","sector":"Healthcare"}
+{"name":"Malaria Consortium","root":"https://www.malariaconsortium.org","jobs":"https://www.malariaconsortium.org/work-with-us","sector":"Healthcare"}
+{"name":"MapAction","root":"https://mapaction.org","jobs":"https://mapaction.org/jobs","sector":"Social Services"}
+{"name":"Marie Stopes International (MSI Reproductive Choices)","root":"https://www.msichoices.org","jobs":"https://jobs.msichoices.org","sector":"Healthcare"}
+{"name":"The Marshall Project","root":"https://www.themarshallproject.org","jobs":"https://www.themarshallproject.org/jobs","sector":"Media and Communications"}
+{"name":"MÃ©decins Sans FrontiÃ¨res (Doctors Without Borders)","root":"https://www.msf.org","jobs":"https://www.msf.org/work-us","sector":"Healthcare"}
+{"name":"Medely","root":"https://www.medely.com","jobs":"https://www.medely.com/careers","sector":"Healthcare"}
+{"name":"Mercy Corps","root":"https://www.mercycorps.org","jobs":"https://www.mercycorps.org/careers","sector":"Social Services"}
+{"name":"Meru Health","root":"https://www.meruhealth.com","jobs":"https://www.meruhealth.com/careers","sector":"Healthcare"}
+{"name":"Modern Health","root":"https://www.modernhealth.com","jobs":"https://www.modernhealth.com/careers","sector":"Healthcare"}
+{"name":"Moment Energy","root":"https://www.momentenergy.ca","jobs":"https://www.momentenergy.ca/careers","sector":"Environmental Services"}
+{"name":"Moon","root":"https://www.moon.co.za","jobs":"https://www.moon.co.za/careers","sector":"Financial Services"}
+{"name":"Mozilla Corporation","root":"https://www.mozilla.org","jobs":"https://careers.mozilla.org","sector":"Information Technology Services"}
+{"name":"Mozilla Foundation","root":"https://foundation.mozilla.org","jobs":"https://foundation.mozilla.org/en/opportunities","sector":"Information Technology Services"}
+{"name":"Muso Health","root":"https://www.musohealth.org","jobs":"https://www.musohealth.org/careers","sector":"Healthcare"}
+{"name":"myECO","root":"https://myeco.id","jobs":"https://myeco.id/careers","sector":"Financial Services"}
+{"name":"National Audubon Society","root":"https://www.audubon.org","jobs":"https://www.audubon.org/careers","sector":"Environmental Services"}
+{"name":"National Geographic Society","root":"https://www.nationalgeographic.org","jobs":"https://www.nationalgeographic.org/careers","sector":"Social Services"}
+{"name":"Natural Resources Defense Council (NRDC)","root":"https://www.nrdc.org","jobs":"https://www.nrdc.org/careers","sector":"Social Services"}
+{"name":"The Nature Conservancy","root":"https://www.nature.org","jobs":"https://www.nature.org/en-us/about-us/careers","sector":"Environmental Services"}
+{"name":"NexHealth","root":"https://www.nexhealth.com","jobs":"https://www.nexhealth.com/careers","sector":"Healthcare"}
+{"name":"Nick Academy","root":"https://nickacademy.com","jobs":"https://nickacademy.com/careers","sector":"Education"}
+{"name":"Norm Ai","root":"https://www.norm.ai","jobs":"https://www.norm.ai/careers","sector":"Information Technology Services"}
+{"name":"Norwegian Church Aid","root":"https://www.kirkensnodhjelp.no/en","jobs":"https://www.kirkensnodhjelp.no/en/about-nca/vacancies","sector":"Information Technology Services"}
+{"name":"Norwegian Refugee Council (NRC)","root":"https://www.nrc.no","jobs":"https://www.nrc.no/careers","sector":"Social Services"}
+{"name":"Nova Credit","root":"https://www.novacredit.com","jobs":"https://www.novacredit.com/careers","sector":"Financial Services"}
+{"name":"Nurx","root":"https://www.nurx.com","jobs":"https://www.nurx.com/careers","sector":"Healthcare"}
+{"name":"Nuru International","root":"https://www.nuruinternational.org","jobs":"https://www.nuruinternational.org/careers","sector":"Social Services"}
+{"name":"Nuvola","root":"https://www.nuvolaenergy.com","jobs":"https://www.nuvolaenergy.com/careers","sector":"Environmental Services"}
+{"name":"Ocean Conservancy","root":"https://oceanconservancy.org","jobs":"https://oceanconservancy.org/about/careers","sector":"Environmental Services"}
+{"name":"The Ocean Cleanup","root":"https://theoceancleanup.com","jobs":"https://theoceancleanup.com/careers","sector":"Environmental Services"}
+{"name":"Oceana","root":"https://www.oceana.org","jobs":"https://www.oceana.org/careers","sector":"Environmental Services"}
+{"name":"Octopus Energy","root":"https://octopus.energy","jobs":"https://octopus.energy/careers","sector":"Environmental Services"}
+{"name":"One Acre Fund","root":"https://oneacrefund.org","jobs":"https://oneacrefund.org/careers","sector":"Financial Services"}
+{"name":"Open Philanthropy","root":"https://www.openphilanthropy.org","jobs":"https://www.openphilanthropy.org/jobs","sector":"Professional Consulting Services"}
+{"name":"Open Society Foundations","root":"https://www.opensocietyfoundations.org","jobs":"https://www.opensocietyfoundations.org/jobs","sector":"Social Services"}
+{"name":"OpenClassrooms","root":"https://openclassrooms.com","jobs":"https://openclassrooms.com/en/careers","sector":"Education"}
+{"name":"OpenStreetMap Foundation","root":"https://osmfoundation.org","jobs":"https://osmfoundation.org/wiki/Vacancies","sector":"Information Technology Services"}
+{"name":"Operation Smile","root":"https://www.operationsmile.org","jobs":"https://www.operationsmile.org/about/careers","sector":"Healthcare"}
+{"name":"Orange Health Labs","root":"https://www.orangehealth.in","jobs":"https://www.orangehealth.in/careers","sector":"Healthcare"}
+{"name":"Ornikar","root":"https://www.ornikar.com","jobs":"https://www.ornikar.com/careers","sector":"Education"}
+{"name":"Osmind","root":"https://www.osmind.org","jobs":"https://www.osmind.org/careers","sector":"Healthcare"}
+{"name":"Outschool","root":"https://outschool.com","jobs":"https://outschool.com/careers","sector":"Education"}
+{"name":"Owkin","root":"https://owkin.com","jobs":"https://owkin.com/careers","sector":"Information Technology Services"}
+{"name":"Oxfam International","root":"https://www.oxfam.org","jobs":"https://www.oxfam.org/en/take-action/careers","sector":"Social Services"}
+{"name":"Pair Team","root":"https://pairteam.org","jobs":"https://pairteam.org/careers","sector":"Information Technology Services"}
+{"name":"Palladium","root":"https://thepalladiumgroup.com","jobs":"https://thepalladiumgroup.com/careers","sector":"Professional Consulting Services"}
+{"name":"Palmetto","root":"https://palmetto.com","jobs":"https://palmetto.com/careers","sector":"Environmental Services"}
+{"name":"Parsley Health","root":"https://www.parsleyhealth.com","jobs":"https://www.parsleyhealth.com/careers","sector":"Healthcare"}
+{"name":"Partners In Health (PIH)","root":"https://www.pih.org","jobs":"https://www.pih.org/pages/employment","sector":"Healthcare"}
+{"name":"PATH","root":"https://www.path.org","jobs":"https://www.path.org/careers","sector":"Social Services"}
+{"name":"PATH Foundation Philippines (PFPI)","root":"https://www.pfpi.org","jobs":"https://www.pfpi.org/careers","sector":"Social Services"}
+{"name":"PATH India","root":"https://www.path-india.org","jobs":"https://www.path-india.org/careers","sector":"Social Services"}
+{"name":"PayZen","root":"https://payzen.com","jobs":"https://payzen.com/careers","sector":"Healthcare"}
+{"name":"Pennylane","root":"https://pennylane.com","jobs":"https://pennylane.com/careers","sector":"Financial Services"}
+{"name":"Perfect Day","root":"https://www.perfectday.com","jobs":"https://www.perfectday.com/careers","sector":"Agriculture and Food Production"}
+{"name":"PETA","root":"https://www.peta.org","jobs":"https://www.peta.org/about-peta/work-at-peta","sector":"Animal Welfare"}
+{"name":"Plan International","root":"https://plan-international.org","jobs":"https://plan-international.org/careers","sector":"Social Services"}
+{"name":"Plastic Bank","root":"https://plasticbank.com","jobs":"https://plasticbank.com/careers","sector":"Financial Services"}
+{"name":"Platio","root":"https://platio.com","jobs":"https://platio.com/careers","sector":"Manufacturing and Materials"}
+{"name":"Population Council","root":"https://www.popcouncil.org","jobs":"https://www.popcouncil.org/careers","sector":"Social Services"}
+{"name":"Population Reference Bureau (PRB)","root":"https://www.prb.org","jobs":"https://www.prb.org/about/careers","sector":"Social Services"}
+{"name":"Population Services International (PSI)","root":"https://www.psi.org","jobs":"https://www.psi.org/careers","sector":"Social Services"}
+{"name":"Poupette","root":"https://www.poupette.com","jobs":"https://www.poupette.com/careers","sector":"Animal Welfare"}
+{"name":"Practical Action","root":"https://practicalaction.org","jobs":"https://practicalaction.org/careers","sector":"Social Services"}
+{"name":"Pratham","root":"https://www.pratham.org","jobs":"https://www.pratham.org/get-involved/work-with-us","sector":"Education"}
+{"name":"Project Drawdown","root":"https://www.drawdown.org","jobs":"https://www.drawdown.org/careers","sector":"Environmental Services"}
+{"name":"Project HOPE","root":"https://www.projecthope.org","jobs":"https://www.projecthope.org/careers","sector":"Social Services"}
+{"name":"ProPublica","root":"https://www.propublica.org","jobs":"https://www.propublica.org/atpropublica/jobs","sector":"Media and Communications"}
+{"name":"Public Lab","root":"https://publiclab.org","jobs":"https://publiclab.org/wiki/jobs","sector":"Information Technology Services"}
+{"name":"Purpose Energy","root":"https://www.purposeenergy.com","jobs":"https://www.purposeenergy.com/careers","sector":"Environmental Services"}
+{"name":"RAINN","root":"https://www.rainn.org","jobs":"https://www.rainn.org/careers","sector":"Information Technology Services"}
+{"name":"Rainforest Alliance","root":"https://www.rainforest-alliance.org","jobs":"https://www.rainforest-alliance.org/careers","sector":"Information Technology Services"}
+{"name":"Rainforest Foundation Norway","root":"https://www.regnskog.no/en","jobs":"https://www.regnskog.no/en/about-us/vacancies","sector":"Information Technology Services"}
+{"name":"Rainforest Foundation UK","root":"https://www.rainforestfoundationuk.org","jobs":"https://www.rainforestfoundationuk.org/jobs","sector":"Information Technology Services"}
+{"name":"Rainforest Foundation US","root":"https://rainforestfoundation.org","jobs":"https://rainforestfoundation.org/about/jobs","sector":"Information Technology Services"}
+{"name":"Rainforest Trust","root":"https://www.rainforesttrust.org","jobs":"https://www.rainforesttrust.org/careers","sector":"Information Technology Services"}
+{"name":"Reach52","root":"https://reach52.com","jobs":"https://reach52.com/careers","sector":"Healthcare"}
+{"name":"Recylink","root":"https://recylink.cl","jobs":"https://recylink.cl/careers","sector":"Manufacturing and Materials"}
+{"name":"Relief International","root":"https://www.ri.org","jobs":"https://www.ri.org/work-with-us","sector":"Social Services"}
+{"name":"RevisionDojo","root":"https://revisiondojo.com","jobs":"https://revisiondojo.com/careers","sector":"Education"}
+{"name":"Rewiring America","root":"https://www.rewiringamerica.org","jobs":"https://www.rewiringamerica.org/careers","sector":"Environmental Services"}
+{"name":"Rockefeller Foundation","root":"https://www.rockefellerfoundation.org","jobs":"https://www.rockefellerfoundation.org/careers","sector":"Social Services"}
+{"name":"Rocky Mountain Institute (RMI)","root":"https://rmi.org","jobs":"https://rmi.org/careers","sector":"Information Technology Services"}
+{"name":"Room to Grow","root":"https://www.roomtogrow.org","jobs":"https://www.roomtogrow.org/careers","sector":"Social Services"}
+{"name":"Room to Read","root":"https://www.roomtoread.org","jobs":"https://www.roomtoread.org/about/careers","sector":"Education"}
+{"name":"Royal Society for the Protection of Birds (RSPB)","root":"https://www.rspb.org.uk","jobs":"https://www.rspb.org.uk/about-the-rspb/about-us/jobs","sector":"Social Services"}
+{"name":"Sanas","root":"https://www.sanas.ai","jobs":"https://www.sanas.ai/careers","sector":"Information Technology Services"}
+{"name":"Saphyre","root":"https://www.saphyre.com","jobs":"https://www.saphyre.com/careers","sector":"Financial Services"}
+{"name":"Save the Children","root":"https://www.savethechildren.org","jobs":"https://www.savethechildren.org/us/about-us/careers","sector":"Social Services"}
+{"name":"Scaling Up Nutrition (SUN) Movement","root":"https://scalingupnutrition.org","jobs":"https://scalingupnutrition.org/about/opportunities","sector":"Agriculture and Food Production"}
+{"name":"Scout Health","root":"https://scouthealth.com","jobs":"https://scouthealth.com/careers","sector":"Healthcare"}
+{"name":"Seacology","root":"https://www.seacology.org","jobs":"https://www.seacology.org/about/jobs","sector":"Social Services"}
+{"name":"Seva Foundation","root":"https://www.seva.org","jobs":"https://www.seva.org/site/SPageServer/?pagename=job_opportunities","sector":"Healthcare"}
+{"name":"Shelter","root":"https://www.shelter.org.uk","jobs":"https://england.shelter.org.uk/get_involved/jobs","sector":"Social Services"}
+{"name":"ShelterBox","root":"https://www.shelterbox.org","jobs":"https://www.shelterbox.org/about/careers","sector":"Social Services"}
+{"name":"ShelterBox USA","root":"https://www.shelterboxusa.org","jobs":"https://www.shelterboxusa.org/about/careers","sector":"Social Services"}
+{"name":"Sierra Club","root":"https://www.sierraclub.org","jobs":"https://www.sierraclub.org/careers","sector":"Environmental Services"}
+{"name":"Sightsavers","root":"https://www.sightsavers.org","jobs":"https://www.sightsavers.org/careers","sector":"Healthcare"}
+{"name":"SightLife","root":"https://www.sightlife.org","jobs":"https://www.sightlife.org/about/careers","sector":"Healthcare"}
+{"name":"SINAI Technologies","root":"https://www.sinaitech.com","jobs":"https://www.sinaitech.com/careers","sector":"Information Technology Services"}
+{"name":"Skoll Centre for Social Entrepreneurship","root":"https://skollcentre.org","jobs":"https://skollcentre.org/about/opportunities","sector":"Professional Consulting Services"}
+{"name":"Skoll Foundation","root":"https://skoll.org","jobs":"https://skoll.org/about/careers","sector":"Professional Consulting Services"}
+{"name":"Smile Train","root":"https://www.smiletrain.org","jobs":"https://www.smiletrain.org/careers","sector":"Information Technology Services"}
+{"name":"SolarAid","root":"https://solar-aid.org","jobs":"https://solar-aid.org/jobs","sector":"Information Technology Services"}
+{"name":"Solfeg.io","root":"https://solfeg.io","jobs":"https://solfeg.io/careers","sector":"Information Technology Services"}
+{"name":"SonderMind","root":"https://www.sondermind.com","jobs":"https://www.sondermind.com/careers","sector":"Environmental Services"}
+{"name":"Spring Health","root":"https://www.springhealth.com","jobs":"https://www.springhealth.com/careers","sector":"Healthcare"}
+{"name":"Starlight Charging","root":"https://www.starlightcharging.com","jobs":"https://www.starlightcharging.com/careers","sector":"Environmental Services"}
+{"name":"StaySana","root":"https://staysana.com","jobs":"https://staysana.com/careers","sector":"Healthcare"}
+{"name":"STEMpedia","root":"https://www.stempedia.com","jobs":"https://www.stempedia.com/careers","sector":"Education"}
+{"name":"Summer","root":"https://www.meetsummer.com","jobs":"https://www.meetsummer.com/careers","sector":"Healthcare"}
+{"name":"Sunnova","root":"https://www.sunnova.com","jobs":"https://www.sunnova.com/careers","sector":"Environmental Services"}
+{"name":"The Sunrise Project","root":"https://sunriseproject.org","jobs":"https://sunriseproject.org/jobs","sector":"Environmental Services"}
+{"name":"Surfrider Foundation","root":"https://www.surfrider.org","jobs":"https://www.surfrider.org/careers","sector":"Environmental Services"}
+{"name":"Teach For All","root":"https://teachforall.org","jobs":"https://teachforall.org/careers","sector":"Education"}
+{"name":"Teach For America","root":"https://www.teachforamerica.org","jobs":"https://www.teachforamerica.org/careers","sector":"Education"}
+{"name":"Team Rubicon","root":"https://teamrubiconusa.org","jobs":"https://teamrubiconusa.org/careers","sector":"Social Services"}
+{"name":"Team Rubicon Global","root":"https://teamrubiconglobal.org","jobs":"https://teamrubiconglobal.org/careers","sector":"Social Services"}
+{"name":"Tempus","root":"https://www.tempus.com","jobs":"https://www.tempus.com/careers","sector":"Healthcare"}
+{"name":"Thaki","root":"https://thaki.org","jobs":"https://thaki.org/careers","sector":"Information Technology Services"}
+{"name":"350.org","root":"https://350.org","jobs":"https://350.org/jobs","sector":"Environmental Services"}
+{"name":"Traceless","root":"https://www.traceless.eu","jobs":"https://www.traceless.eu/careers","sector":"Manufacturing and Materials"}
+{"name":"Transparency International","root":"https://www.transparency.org","jobs":"https://www.transparency.org/en/careers","sector":"Professional Consulting Services"}
+{"name":"Transparency International EU","root":"https://transparency.eu","jobs":"https://transparency.eu/jobs","sector":"Professional Consulting Services"}
+{"name":"Transparency International UK","root":"https://www.transparency.org.uk","jobs":"https://www.transparency.org.uk/jobs","sector":"Professional Consulting Services"}
+{"name":"Trashbots","root":"https://www.trashbots.co","jobs":"https://www.trashbots.co/careers","sector":"Education"}
+{"name":"Trees for the Future","root":"https://trees.org","jobs":"https://trees.org/careers","sector":"Environmental Services"}
+{"name":"The Trevor Project","root":"https://www.thetrevorproject.org","jobs":"https://www.thetrevorproject.org/careers","sector":"Social Services"}
+{"name":"Trillion Trees","root":"https://trilliontrees.org","jobs":"https://trilliontrees.org/jobs","sector":"Environmental Services"}
+{"name":"Trusted Health","root":"https://www.trustedhealth.com","jobs":"https://www.trustedhealth.com/careers","sector":"Healthcare"}
+{"name":"Ujala Cygnus Hospitals","root":"https://ujalacygnus.com","jobs":"https://ujalacygnus.com/careers","sector":"Healthcare"}
+{"name":"UN Habitat","root":"https://unhabitat.org","jobs":"https://unhabitat.org/vacancies","sector":"Social Services"}
+{"name":"UN High Commissioner for Refugees (UNHCR)","root":"https://www.unhcr.org","jobs":"https://www.unhcr.org/careers","sector":"Social Services"}
+{"name":"UN Office for the Coordination of Humanitarian Affairs (OCHA)","root":"https://www.unocha.org","jobs":"https://www.unocha.org/about-us/careers","sector":"Information Technology Services"}
+{"name":"UN Women","root":"https://www.unwomen.org","jobs":"https://www.unwomen.org/en/about-us/employment","sector":"Social Services"}
+{"name":"UN World Food Programme (WFP)","root":"https://www.wfp.org","jobs":"https://www.wfp.org/careers","sector":"Social Services"}
+{"name":"Understood Care","root":"https://www.understoodcare.com","jobs":"https://www.understoodcare.com/careers","sector":"Healthcare"}
+{"name":"UNESCO","root":"https://www.unesco.org","jobs":"https://careers.unesco.org","sector":"Social Services"}
+{"name":"UNICEF","root":"https://www.unicef.org","jobs":"https://www.unicef.org/careers","sector":"Social Services"}
+{"name":"Union of Concerned Scientists (UCS)","root":"https://www.ucsusa.org","jobs":"https://www.ucsusa.org/about/jobs","sector":"Social Services"}
+{"name":"United Nations Development Programme (UNDP)","root":"https://www.undp.org","jobs":"https://www.undp.org/careers","sector":"Social Services"}
+{"name":"United Nations Environment Programme (UNEP)","root":"https://www.unep.org","jobs":"https://www.unep.org/work-with-us","sector":"Environmental Services"}
+{"name":"Univerbal","root":"https://univerbal.app","jobs":"https://univerbal.app/careers","sector":"Education"}
+{"name":"Unlocked Labs","root":"https://www.unlockedlabs.org","jobs":"https://www.unlockedlabs.org/careers","sector":"Education"}
+{"name":"Upside Foods","root":"https://www.upsidefoods.com","jobs":"https://www.upsidefoods.com/careers","sector":"Agriculture and Food Production"}
+{"name":"Verdagy","root":"https://www.verdagy.com","jobs":"https://www.verdagy.com/careers","sector":"Environmental Services"}
+{"name":"VillageReach","root":"https://www.villagereach.org","jobs":"https://www.villagereach.org/careers","sector":"Social Services"}
+{"name":"Viome","root":"https://www.viome.com","jobs":"https://www.viome.com/careers","sector":"Healthcare"}
+{"name":"Virtual Psychologist","root":"https://virtualpsychologist.com.au","jobs":"https://virtualpsychologist.com.au/careers","sector":"Healthcare"}
+{"name":"Vori Health","root":"https://www.vorihealth.com","jobs":"https://www.vorihealth.com/careers","sector":"Healthcare"}
+{"name":"War Child","root":"https://www.warchild.org.uk","jobs":"https://www.warchild.org.uk/our-work/jobs","sector":"Social Services"}
+{"name":"Water.org","root":"https://water.org","jobs":"https://water.org/careers","sector":"Environmental Services"}
+{"name":"WaterAid","root":"https://www.wateraid.org","jobs":"https://www.wateraid.org/jobs","sector":"Information Technology Services"}
+{"name":"The Water Project","root":"https://thewaterproject.org","jobs":"https://thewaterproject.org/about-us/jobs","sector":"Environmental Services"}
+{"name":"Wellcome Trust","root":"https://www.wellcome.org","jobs":"https://www.wellcome.org/jobs","sector":"Social Services"}
+{"name":"Wikimedia Foundation","root":"https://wikimediafoundation.org","jobs":"https://wikimediafoundation.org/about/careers","sector":"Information Technology Services"}
+{"name":"The Wildlife Trusts","root":"https://www.wildlifetrusts.org","jobs":"https://www.wildlifetrusts.org/jobs","sector":"Environmental Services"}
+{"name":"Wildlife Conservation Society (WCS)","root":"https://www.wcs.org","jobs":"https://www.wcs.org/careers","sector":"Environmental Services"}
+{"name":"Winko Solar","root":"https://winkosolar.com","jobs":"https://winkosolar.com/careers","sector":"Environmental Services"}
+{"name":"Winrock International","root":"https://winrock.org","jobs":"https://winrock.org/join-us/careers","sector":"Professional Consulting Services"}
+{"name":"Women Deliver","root":"https://womendeliver.org","jobs":"https://womendeliver.org/opportunities","sector":"Social Services"}
+{"name":"Women Who Code","root":"https://www.womenwhocode.com","jobs":"https://www.womenwhocode.com/jobs","sector":"Education"}
+{"name":"World Animal Protection","root":"https://www.worldanimalprotection.org","jobs":"https://www.worldanimalprotection.org/careers","sector":"Animal Welfare"}
+{"name":"World Bank Group","root":"https://www.worldbank.org","jobs":"https://www.worldbank.org/en/about/careers","sector":"Financial Services"}
+{"name":"World Bicycle Relief","root":"https://worldbicyclerelief.org","jobs":"https://worldbicyclerelief.org/careers","sector":"Transportation and Logistics"}
+{"name":"World Central Kitchen","root":"https://wck.org","jobs":"https://wck.org/careers","sector":"Social Services"}
+{"name":"World Food Programme USA (WFP USA)","root":"https://www.wfpusa.org","jobs":"https://www.wfpusa.org/careers","sector":"Social Services"}
+{"name":"World Health Organization (WHO)","root":"https://www.who.int","jobs":"https://www.who.int/careers","sector":"Healthcare"}
+{"name":"World Land Trust","root":"https://www.worldlandtrust.org","jobs":"https://www.worldlandtrust.org/jobs","sector":"Social Services"}
+{"name":"World Resources Institute (WRI)","root":"https://www.wri.org","jobs":"https://www.wri.org/careers","sector":"Social Services"}
+{"name":"World Resources Institute Africa","root":"https://wri-africa.org","jobs":"https://www.wri.org/careers","sector":"Social Services"}
+{"name":"World Resources Institute Brasil","root":"https://wribrasil.org.br","jobs":"https://wribrasil.org.br/en/careers","sector":"Social Services"}
+{"name":"World Resources Institute China","root":"https://cn.wri.org","jobs":"https://www.wri.org/careers","sector":"Social Services"}
+{"name":"World Resources Institute Europe","root":"https://wri-europe.org","jobs":"https://www.wri.org/careers","sector":"Social Services"}
+{"name":"World Resources Institute India","root":"https://wri-india.org","jobs":"https://wri-india.org/careers","sector":"Social Services"}
+{"name":"World Vision","root":"https://www.worldvision.org","jobs":"https://www.worldvision.org/about-us/careers","sector":"Social Services"}
+{"name":"World Vision International","root":"https://www.wvi.org","jobs":"https://www.wvi.org/careers","sector":"Social Services"}
+{"name":"World Wildlife Fund (WWF)","root":"https://www.worldwildlife.org","jobs":"https://www.worldwildlife.org/about/careers","sector":"Environmental Services"}
+{"name":"WWF-Australia","root":"https://www.wwf.org.au","jobs":"https://www.wwf.org.au/about-us/jobs","sector":"Social Services"}
+{"name":"WWF-UK","root":"https://www.wwf.org.uk","jobs":"https://www.wwf.org.uk/get-involved/jobs","sector":"Social Services"}
+{"name":"Zipline","root":"https://www.flyzipline.com","jobs":"https://www.flyzipline.com/careers","sector":"Transportation and Logistics"}
+{"name":"Zitara","root":"https://www.zitara.co","jobs":"https://www.zitara.co/careers","sector":"Manufacturing and Materials"}
+{"name":"Zola Electric","root":"https://www.zolaelectric.com","jobs":"https://www.zolaelectric.com/careers","sector":"Environmental Services"}

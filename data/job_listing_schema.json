@@ -1,0 +1,758 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.com/schemas/job-listing.json",
+  "title": "Social Impact Job Listing",
+  "description": "Comprehensive schema for describing job listings from social impact organizations",
+  "type": "object",
+  "properties": {
+    "job_id": {
+      "type": "string",
+      "description": "Unique identifier for the job posting"
+    },
+    "organization": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string",
+          "description": "Organization name"
+        },
+        "parent_organization": {
+          "type": "string",
+          "description": "Parent organization if part of a federation or network"
+        },
+        "organizational_structure": {
+          "type": "string",
+          "enum": ["independent", "federation_member", "subsidiary", "regional_office", "field_office"],
+          "description": "Relationship to broader organizational structure"
+        },
+        "type": {
+          "type": "string",
+          "enum": ["nonprofit", "social_enterprise", "b_corp", "government", "international_organization", "foundation", "startup", "corporate_social_responsibility"],
+          "description": "Type of organization"
+        },
+        "sector": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["humanitarian", "health", "education", "environment", "human_rights", "technology", "financial_inclusion", "development", "disaster_relief", "advocacy", "research", "conservation"]
+          },
+          "description": "Primary sectors the organization operates in"
+        },
+        "website": {
+          "type": "string",
+          "format": "uri",
+          "description": "Organization website URL"
+        }
+      },
+      "required": ["name", "type"]
+    },
+    "position": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string",
+          "description": "Job title"
+        },
+        "department": {
+          "type": "string",
+          "description": "Department or team (e.g., Engineering, Programs, Communications)"
+        },
+        "level": {
+          "type": "string",
+          "enum": ["entry", "mid", "senior", "principal", "director", "executive", "intern", "volunteer"],
+          "description": "Position level"
+        },
+        "employment_type": {
+          "type": "string",
+          "enum": ["full_time", "part_time", "contract", "temporary", "intern", "volunteer", "consultant"],
+          "description": "Employment arrangement"
+        },
+        "contract_duration": {
+          "type": "string",
+          "description": "Duration for contract/temporary positions (e.g., '12 months', '2 years', 'open-ended')"
+        }
+      },
+      "required": ["title", "employment_type"]
+    },
+    "location": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string",
+          "enum": ["remote", "on_site", "hybrid", "field_based", "multi_location", "deployable"],
+          "description": "Work location arrangement"
+        },
+        "primary_location": {
+          "type": "object",
+          "properties": {
+            "city": {
+              "type": "string"
+            },
+            "state_province": {
+              "type": "string"
+            },
+            "country": {
+              "type": "string"
+            },
+            "region": {
+              "type": "string",
+              "description": "Geographic region for field-based roles"
+            }
+          }
+        },
+        "deployment_locations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "region": {"type": "string"},
+              "countries": {
+                "type": "array",
+                "items": {"type": "string"}
+              },
+              "conflict_zones": {"type": "boolean"},
+              "emergency_contexts": {"type": "boolean"}
+            }
+          },
+          "description": "Potential deployment locations for international humanitarian roles"
+        },
+        "additional_locations": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "city": {"type": "string"},
+              "state_province": {"type": "string"},
+              "country": {"type": "string"}
+            }
+          },
+          "description": "Additional work locations for multi-location roles"
+        },
+        "travel_requirements": {
+          "type": "object",
+          "properties": {
+            "percentage": {
+              "type": "string",
+              "description": "Percentage of time traveling (e.g., '25%', '50%')"
+            },
+            "frequency": {
+              "type": "string",
+              "description": "Travel frequency description"
+            },
+            "international": {
+              "type": "boolean",
+              "description": "Whether international travel is required"
+            },
+            "hardship_locations": {
+              "type": "boolean",
+              "description": "Whether travel to hardship or high-risk locations is required"
+            }
+          }
+        }
+      },
+      "required": ["type"]
+    },
+    "deployment_terms": {
+      "type": "object",
+      "properties": {
+        "deployment_cycles": {
+          "type": "object",
+          "properties": {
+            "mission_duration": {"type": "string"},
+            "rest_period": {"type": "string"},
+            "annual_cycles": {"type": "integer"}
+          }
+        },
+        "family_arrangements": {
+          "type": "object",
+          "properties": {
+            "family_accompaniment": {"type": "boolean"},
+            "family_separation_support": {"type": "boolean"},
+            "dependents_policy": {"type": "string"}
+          }
+        },
+        "emergency_procedures": {
+          "type": "object",
+          "properties": {
+            "evacuation_protocols": {"type": "boolean"},
+            "emergency_contacts": {"type": "boolean"},
+            "repatriation_coverage": {"type": "boolean"}
+          }
+        },
+        "mobility_requirements": {
+          "type": "string",
+          "description": "Availability and mobility expectations for international deployment"
+        }
+      },
+      "description": "Terms specific to international deployment roles"
+    },
+    "responsibilities": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "List of key job responsibilities and duties"
+    },
+    "requirements": {
+      "type": "object",
+      "properties": {
+        "education": {
+          "type": "object",
+          "properties": {
+            "minimum_degree": {
+              "type": "string",
+              "enum": ["high_school", "associate", "bachelor", "master", "phd", "professional", "none"],
+              "description": "Minimum education requirement"
+            },
+            "preferred_degree": {
+              "type": "string",
+              "enum": ["associate", "bachelor", "master", "phd", "professional"],
+              "description": "Preferred education level"
+            },
+            "fields_of_study": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Relevant fields of study"
+            },
+            "equivalent_experience": {
+              "type": "boolean",
+              "description": "Whether equivalent experience can substitute for formal education"
+            }
+          }
+        },
+        "experience": {
+          "type": "object",
+          "properties": {
+            "minimum_years": {
+              "type": "integer",
+              "description": "Minimum years of relevant experience"
+            },
+            "preferred_years": {
+              "type": "integer",
+              "description": "Preferred years of experience"
+            },
+            "specific_experience": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Specific types of experience required"
+            },
+            "industry_experience": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Relevant industry experience"
+            },
+            "humanitarian_experience": {
+              "type": "object",
+              "properties": {
+                "field_experience_required": {"type": "boolean"},
+                "minimum_missions": {"type": "integer"},
+                "conflict_experience": {"type": "boolean"},
+                "emergency_response": {"type": "boolean"}
+              }
+            }
+          }
+        },
+        "technical_skills": {
+          "type": "object",
+          "properties": {
+            "programming_languages": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Required programming languages"
+            },
+            "frameworks_tools": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Required frameworks, tools, or platforms"
+            },
+            "databases": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Database technologies"
+            },
+            "cloud_platforms": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Cloud platform experience"
+            },
+            "other_technical": {
+              "type": "array",
+              "items": {
+                "type": "string"
+              },
+              "description": "Other technical requirements"
+            }
+          }
+        },
+        "soft_skills": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Required soft skills and competencies"
+        },
+        "languages": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "language": {
+                "type": "string"
+              },
+              "proficiency": {
+                "type": "string",
+                "enum": ["basic", "conversational", "business", "fluent", "native"]
+              },
+              "required": {
+                "type": "boolean"
+              }
+            },
+            "required": ["language", "required"]
+          },
+          "description": "Language requirements"
+        },
+        "certifications": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "name": {
+                "type": "string"
+              },
+              "required": {
+                "type": "boolean"
+              },
+              "preferred": {
+                "type": "boolean"
+              }
+            },
+            "required": ["name"]
+          },
+          "description": "Professional certifications"
+        }
+      }
+    },
+    "preferred_qualifications": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Nice-to-have qualifications that would distinguish candidates"
+    },
+    "compensation": {
+      "type": "object",
+      "properties": {
+        "salary_range": {
+          "type": "object",
+          "properties": {
+            "min": {
+              "type": "number"
+            },
+            "max": {
+              "type": "number"
+            },
+            "currency": {
+              "type": "string",
+              "default": "USD"
+            },
+            "frequency": {
+              "type": "string",
+              "enum": ["hourly", "monthly", "annually"],
+              "default": "annually"
+            }
+          }
+        },
+        "salary_grade": {
+          "type": "string",
+          "description": "Internal salary grade or level"
+        },
+        "grade_system": {
+          "type": "object",
+          "properties": {
+            "system_name": {"type": "string"},
+            "grade_level": {"type": "string"},
+            "step": {"type": "string"}
+          },
+          "description": "Details of internal grading system"
+        },
+        "location_adjustments": {
+          "type": "object",
+          "properties": {
+            "cost_of_living": {"type": "boolean"},
+            "hardship_allowance": {"type": "boolean"},
+            "danger_pay": {"type": "boolean"},
+            "isolation_allowance": {"type": "boolean"}
+          }
+        },
+        "equity": {
+          "type": "boolean",
+          "description": "Whether equity/stock options are included"
+        },
+        "bonus_eligible": {
+          "type": "boolean",
+          "description": "Whether position is eligible for bonuses"
+        },
+        "field_allowances": {
+          "type": "object",
+          "properties": {
+            "per_diem": {"type": "boolean"},
+            "accommodation": {"type": "boolean"},
+            "transportation": {"type": "boolean"},
+            "communication": {"type": "boolean"}
+          }
+        },
+        "compensation_philosophy": {
+          "type": "string",
+          "description": "Organization's approach to compensation"
+        }
+      }
+    },
+    "benefits": {
+      "type": "object",
+      "properties": {
+        "health_insurance": {
+          "type": "object",
+          "properties": {
+            "medical": {"type": "boolean"},
+            "dental": {"type": "boolean"},
+            "vision": {"type": "boolean"},
+            "mental_health": {"type": "boolean"},
+            "international_coverage": {"type": "boolean"},
+            "emergency_medical": {"type": "boolean"},
+            "employer_contribution": {"type": "string"}
+          }
+        },
+        "time_off": {
+          "type": "object",
+          "properties": {
+            "vacation_days": {"type": "string"},
+            "sick_leave": {"type": "string"},
+            "personal_days": {"type": "string"},
+            "parental_leave": {"type": "string"},
+            "sabbatical": {"type": "boolean"},
+            "unlimited_pto": {"type": "boolean"},
+            "r_and_r": {"type": "string"}
+          }
+        },
+        "retirement": {
+          "type": "object",
+          "properties": {
+            "plan_type": {"type": "string"},
+            "employer_match": {"type": "string"},
+            "vesting_schedule": {"type": "string"}
+          }
+        },
+        "professional_development": {
+          "type": "object",
+          "properties": {
+            "tuition_assistance": {"type": "boolean"},
+            "conference_budget": {"type": "string"},
+            "training_programs": {"type": "boolean"},
+            "mentorship": {"type": "boolean"},
+            "language_training": {"type": "boolean"}
+          }
+        },
+        "work_life_balance": {
+          "type": "object",
+          "properties": {
+            "flexible_hours": {"type": "boolean"},
+            "remote_work_stipend": {"type": "boolean"},
+            "transportation_benefits": {"type": "boolean"},
+            "gym_membership": {"type": "boolean"},
+            "wellness_programs": {"type": "boolean"}
+          }
+        },
+        "deployment_benefits": {
+          "type": "object",
+          "properties": {
+            "housing_provided": {"type": "boolean"},
+            "meals_provided": {"type": "boolean"},
+            "local_transportation": {"type": "boolean"},
+            "communication_allowance": {"type": "boolean"},
+            "home_leave": {"type": "boolean"},
+            "family_support": {"type": "boolean"}
+          }
+        },
+        "other_benefits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Additional benefits not covered above"
+        }
+      }
+    },
+    "restrictions_requirements": {
+      "type": "object",
+      "properties": {
+        "security_clearance": {
+          "type": "string",
+          "description": "Required security clearance level"
+        },
+        "background_check": {
+          "type": "boolean",
+          "description": "Whether background check is required"
+        },
+        "drug_screening": {
+          "type": "boolean",
+          "description": "Whether drug screening is required"
+        },
+        "work_authorization": {
+          "type": "string",
+          "description": "Work authorization requirements"
+        },
+        "age_restrictions": {
+          "type": "string",
+          "description": "Any age-related requirements"
+        },
+        "physical_requirements": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Physical requirements for the role"
+        },
+        "medical_requirements": {
+          "type": "object",
+          "properties": {
+            "medical_clearance": {"type": "boolean"},
+            "vaccinations": {"type": "array", "items": {"type": "string"}},
+            "psychological_assessment": {"type": "boolean"},
+            "fitness_requirements": {"type": "string"},
+            "pre_existing_conditions": {"type": "string"}
+          }
+        },
+        "safeguarding_requirements": {
+          "type": "boolean",
+          "description": "Whether role involves working with vulnerable populations requiring safeguarding checks"
+        },
+        "reference_checks": {
+          "type": "object",
+          "properties": {
+            "required": {"type": "boolean"},
+            "number_of_references": {"type": "integer"},
+            "specific_checks": {
+              "type": "array",
+              "items": {"type": "string"}
+            }
+          }
+        },
+        "availability_requirements": {
+          "type": "object",
+          "properties": {
+            "immediate_deployment": {"type": "boolean"},
+            "emergency_response": {"type": "boolean"},
+            "extended_availability": {"type": "string"},
+            "notice_period": {"type": "string"}
+          }
+        }
+      }
+    },
+    "humanitarian_specific": {
+      "type": "object",
+      "properties": {
+        "mission_principles": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": ["neutrality", "impartiality", "independence", "humanity", "do_no_harm"]
+          },
+          "description": "Required alignment with humanitarian principles"
+        },
+        "security_requirements": {
+          "type": "object",
+          "properties": {
+            "security_training": {"type": "boolean"},
+            "hostile_environment": {"type": "boolean"},
+            "personal_security": {"type": "boolean"},
+            "communication_protocols": {"type": "boolean"}
+          }
+        },
+        "cultural_competency": {
+          "type": "object",
+          "properties": {
+            "cross_cultural_experience": {"type": "boolean"},
+            "cultural_sensitivity_training": {"type": "boolean"},
+            "local_customs_awareness": {"type": "boolean"}
+          }
+        },
+        "crisis_response": {
+          "type": "object",
+          "properties": {
+            "emergency_deployment": {"type": "boolean"},
+            "rapid_response": {"type": "boolean"},
+            "stress_management": {"type": "boolean"},
+            "trauma_exposure": {"type": "boolean"}
+          }
+        },
+        "ethical_requirements": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Specific ethical guidelines and requirements"
+        }
+      },
+      "description": "Requirements specific to humanitarian and international development roles"
+    },
+    "application_process": {
+      "type": "object",
+      "properties": {
+        "application_deadline": {
+          "type": "string",
+          "format": "date",
+          "description": "Application deadline"
+        },
+        "rolling_deadline": {
+          "type": "boolean",
+          "description": "Whether applications are reviewed on a rolling basis"
+        },
+        "required_documents": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Required application documents"
+        },
+        "application_url": {
+          "type": "string",
+          "format": "uri",
+          "description": "URL to apply for the position"
+        },
+        "contact_person": {
+          "type": "object",
+          "properties": {
+            "name": {"type": "string"},
+            "email": {"type": "string", "format": "email"},
+            "title": {"type": "string"}
+          }
+        },
+        "interview_process": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Steps in the interview process"
+        },
+        "timeline": {
+          "type": "string",
+          "description": "Expected timeline for hiring process"
+        }
+      }
+    },
+    "diversity_inclusion": {
+      "type": "object",
+      "properties": {
+        "equal_opportunity_statement": {
+          "type": "string",
+          "description": "Organization's equal opportunity/non-discrimination statement"
+        },
+        "diversity_encouraged": {
+          "type": "boolean",
+          "description": "Whether diverse candidates are specifically encouraged to apply"
+        },
+        "accommodations_available": {
+          "type": "boolean",
+          "description": "Whether accommodations are available for application process"
+        },
+        "inclusive_benefits": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Benefits specifically supporting diversity and inclusion"
+        }
+      }
+    },
+    "additional_info": {
+      "type": "object",
+      "properties": {
+        "mission_alignment": {
+          "type": "string",
+          "description": "How the role contributes to organization's mission"
+        },
+        "growth_opportunities": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Career growth and development opportunities"
+        },
+        "team_structure": {
+          "type": "string",
+          "description": "Information about team size and structure"
+        },
+        "reporting_structure": {
+          "type": "string",
+          "description": "Who the position reports to"
+        },
+        "direct_reports": {
+          "type": "integer",
+          "description": "Number of direct reports, if any"
+        },
+        "budget_responsibility": {
+          "type": "string",
+          "description": "Budget or financial responsibilities"
+        },
+        "success_metrics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "How success in the role will be measured"
+        },
+        "special_projects": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Special projects or initiatives the role will be involved in"
+        }
+      }
+    },
+    "posting_metadata": {
+      "type": "object",
+      "properties": {
+        "date_posted": {
+          "type": "string",
+          "format": "date",
+          "description": "Date the job was posted"
+        },
+        "last_updated": {
+          "type": "string",
+          "format": "date",
+          "description": "Date the posting was last updated"
+        },
+        "internal_posting": {
+          "type": "boolean",
+          "description": "Whether this is an internal-only posting"
+        },
+        "reposting": {
+          "type": "boolean",
+          "description": "Whether this is a reposted position"
+        },
+        "urgency": {
+          "type": "string",
+          "enum": ["standard", "urgent", "immediate"],
+          "description": "Urgency level for filling the position"
+        }
+      }
+    }
+  },
+  "required": ["organization", "position", "location", "responsibilities"],
+  "additionalProperties": false
+}

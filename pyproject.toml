@@ -41,6 +41,14 @@ dev = [
     "isort>=5.0.0",
     "pre-commit>=2.0.0"
 ]
+supabase = [
+    "psycopg2-binary>=2.9.0",
+    "supabase>=2.0.0"
+]
+all = [
+    "psycopg2-binary>=2.9.0",
+    "supabase>=2.0.0"
+]
 
 [project.scripts]
 anajobs = "anajobs.cli:main"

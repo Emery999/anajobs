@@ -1,0 +1,197 @@
+{
+  "job_id": "MSF-CANADA-2025-TELE-001",
+  "organization": {
+    "name": "Médecins Sans Frontières / Doctors Without Borders Canada",
+    "parent_organization": "Médecins Sans Frontières International",
+    "organizational_structure": "federation_member",
+    "type": "international_organization",
+    "sector": ["humanitarian", "health"],
+    "website": "https://www.doctorswithoutborders.ca"
+  },
+  "position": {
+    "title": "Improvement & Innovation Lead (Telemedicine)",
+    "department": "Telemedicine Services",
+    "level": "senior",
+    "employment_type": "full_time",
+    "contract_duration": "open-ended (CDI)"
+  },
+  "location": {
+    "type": "on_site",
+    "primary_location": {
+      "city": "Toronto",
+      "state_province": "Ontario",
+      "country": "Canada"
+    },
+    "deployment_locations": [
+      {
+        "region": "Global MSF Operations",
+        "countries": ["Multiple countries where MSF operates"],
+        "conflict_zones": false,
+        "emergency_contexts": false
+      }
+    ],
+    "travel_requirements": {
+      "percentage": "15-25%",
+      "frequency": "Quarterly visits to field operations and partner sites",
+      "international": true,
+      "hardship_locations": false
+    }
+  },
+  "deployment_terms": {
+    "deployment_cycles": {
+      "mission_duration": "Short-term technical missions (1-4 weeks)",
+      "rest_period": "Standard office-based work periods",
+      "annual_cycles": 3
+    },
+    "family_arrangements": {
+      "family_accompaniment": false,
+      "family_separation_support": true,
+      "dependents_policy": "Family support during travel periods"
+    },
+    "emergency_procedures": {
+      "evacuation_protocols": true,
+      "emergency_contacts": true,
+      "repatriation_coverage": true
+    },
+    "mobility_requirements": "Available for international travel to support telemedicine implementations"
+  },
+  "responsibilities": [
+    "Develop comprehensive roadmap for evolution of MSF's Telemedicine services to incorporate case data into living, scalable systems",
+    "Lead and manage the Improvement & Innovation Team, including recruitment and development of technical Subject Matter Experts",
+    "Establish service standards, design principles, and best practices for telemedicine platform execution",
+    "Design and pilot innovative telemedicine initiatives based on systematic evaluation of case data and field requirements",
+    "Collaborate closely with Clinical Operations Lead to integrate medical data and clinical contexts from field operations",
+    "Direct technical solution development aligned with strategic directives and implementation timelines",
+    "Champion service improvements to enhance accessibility and usability of telemedicine services for field teams",
+    "Serve as internal technical expert and strategic advisor on MSF's portfolio of telemedicine services",
+    "Optimize user experience for healthcare providers in challenging field environments while exploring emerging digital health solutions",
+    "Ensure telemedicine solutions align with MSF's humanitarian principles and field operational requirements"
+  ],
+  "requirements": {
+    "education": {
+      "minimum_degree": "bachelor",
+      "preferred_degree": "master",
+      "fields_of_study": ["Digital Health", "Health Informatics", "Computer Science", "Engineering", "Health Sciences", "Public Health", "Information Systems"],
+      "equivalent_experience": true
+    },
+    "experience": {
+      "minimum_years": 5,
+      "preferred_years": 8,
+      "specific_experience": [
+        "Digital health platform development or implementation",
+        "SaaS vendor management and evaluation",
+        "Healthcare technology innovation and service design",
+        "Team leadership and technical team management",
+        "Service improvement methodologies and change management",
+        "Cross-functional collaboration in technology projects"
+      ],
+      "industry_experience": ["healthcare", "digital_health", "telemedicine", "health_technology"],
+      "humanitarian_experience": {
+        "field_experience_required": false,
+        "minimum_missions": 0,
+        "conflict_experience": false,
+        "emergency_response": false
+      }
+    },
+    "technical_skills": {
+      "frameworks_tools": ["SaaS platforms", "Digital health tools", "Service design frameworks", "Data analytics platforms"],
+      "other_technical": [
+        "Healthcare data management and integration",
+        "System architecture and scalability planning",
+        "Technology roadmap development and strategic planning",
+        "User experience design for healthcare applications",
+        "API integration and interoperability standards",
+        "Healthcare compliance and privacy frameworks (HIPAA, GDPR)"
+      ]
+    },
+    "soft_skills": [
+      "Strategic leadership and vision development",
+      "Cross-cultural communication and collaboration",
+      "Problem-solving and innovation in resource-constrained environments",
+      "Stakeholder management across technical and clinical teams",
+      "Adaptability to humanitarian contexts and field requirements",
+      "Cultural sensitivity and awareness",
+      "Change management and organizational transformation"
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "proficiency": "fluent",
+        "required": true
+      },
+      {
+        "language": "French",
+        "proficiency": "conversational",
+        "required": false
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Project Management Professional (PMP)",
+        "required": false,
+        "preferred": true
+      },
+      {
+        "name": "Certified Health Informatics Systems Professional (CHISP)",
+        "required": false,
+        "preferred": true
+      }
+    ]
+  },
+  "preferred_qualifications": [
+    "Previous experience in humanitarian, international development, or resource-constrained healthcare contexts",
+    "Deep knowledge of telemedicine platforms and remote healthcare delivery challenges",
+    "Experience with healthcare data privacy, security, and compliance in international contexts",
+    "Understanding of clinical workflows and medical decision-making processes",
+    "Experience implementing technology solutions in low-resource or challenging environments",
+    "Familiarity with MSF operations, humanitarian principles, and field-based healthcare delivery",
+    "Experience with mobile health (mHealth) solutions and offline-capable systems",
+    "Background in health systems strengthening or global health initiatives"
+  ],
+  "compensation": {
+    "grade_system": {
+      "system_name": "MSF Canada Salary Grid",
+      "grade_level": "Level 17",
+      "step": "Based on experience"
+    },
+    "location_adjustments": {
+      "cost_of_living": true,
+      "hardship_allowance": false,
+      "danger_pay": false,
+      "isolation_allowance": false
+    },
+    "equity": false,
+    "bonus_eligible": false,
+    "field_allowances": {
+      "per_diem": true,
+      "accommodation": true,
+      "transportation": true,
+      "communication": true
+    },
+    "compensation_philosophy": "Competitive compensation aligned with MSF Canada's commitment to fair and equitable remuneration based on internal salary grid system"
+  },
+  "benefits": {
+    "health_insurance": {
+      "medical": true,
+      "dental": true,
+      "vision": true,
+      "mental_health": true,
+      "international_coverage": true,
+      "emergency_medical": true,
+      "employer_contribution": "Comprehensive coverage with full employer contribution"
+    },
+    "time_off": {
+      "vacation_days": "25 days annually plus statutory holidays",
+      "sick_leave": "Comprehensive sick leave policy",
+      "personal_days": "Flexible personal leave arrangements",
+      "parental_leave": "Extended parental leave up to 18 months",
+      "sabbatical": true,
+      "unlimited_pto": false,
+      "r_and_r": "Rest and recuperation time following field missions"
+    },
+    "retirement": {
+      "plan_type": "Group RRSP with pension plan options",
+      "employer_match": "Employer contributions as per MSF Canada policy",
+      "vesting_schedule": "Immediate vesting"
+    },
+    
